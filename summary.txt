@@ -24,7 +24,7 @@ Abysmal Knight Card | 1 | Cuteanddeadly/מחסן Kafra
 Abysmal Knight Card | 1 | Cuteanddeadly/מחסן גילדה
 Dame of Sentinel Card | 1 | Cuteanddeadly/מחסן Kafra
 
-## לבדוק מחיר (217)
+## לבדוק מחיר (216)
 Costume 20th Anniversary Fairy Wing | 1 | Cuteanddeadly/תיק
 Costume 20th Anniversary Poring | 1 | Cuteanddeadly/תיק
 Costume Angel Wings | 1 | Cuteanddeadly/מחסן גילדה
@@ -34,7 +34,6 @@ Costume Goggles | 1 | Cuteanddeadly/מחסן Kafra
 Costume Goggles | 1 | Cuteanddeadly/מחסן גילדה
 Costume Novice Rabbit Hood | 1 | CutesellsWoman/תיק
 Costume Ribbon Hat | 1 | Cuteanddeadly/מחסן גילדה
-Costume Samba Carnival Feather | 1 | Cuteanddeadly/על הדמות
 Accessory (unidentified) | 11 | Cuteanddeadly/מחסן Kafra
 Adventurer's Suit | 1 | Cuteanddeadly/מחסן Kafra
 Alchemy Glove | 1 | Cuteanddeadly/מחסן גילדה
