@@ -1,249 +1,247 @@
-Zeny Empire – תמונת מצב 2/11/2026 (iRO Renewal Chaos)
-זני: סה"כ 1056.49M | Cuteanddeadly 398.26M, CutesellsWoman 158.503M, ZenyEmpire 498.237M, buffsareus 1.48862M
+Zeny Empire – תמונת מצב 2026-11-02 (iRO Renewal Chaos)
+זני: סה"כ 1,056.5M | Cuteanddeadly 398.3M, CutesellsWoman 158.5M, ZenyEmpire 498.2M, buffsareus 1.5M
 דמויות: Cuteanddeadly (Windhawk 247, Farming / Production), CutesellsWoman (Merchant, Main Treasury), ZenyEmpire (Merchant, Trading Operations), buffsareus (Arch Bishop 146, Farming / Production)
-כללים: מס 5% בדוכן מעל 10M, בטרייד אין מס. בלי בוטים/RMT. מחירים = הערכות, לא מאומתים.
-פורמט: שם | כמות | דמות/מיקום | שיפור/קלף | מחיר שלי | מחיר שוק
+כללים: מס 5% בדוכן מעל 10M, בטרייד אין מס. בלי בוטים/RMT. אין מחירים בנתונים – צריך לבדוק מחירי שוק עדכניים.
+פורמט: שם | כמות | דמות/מיקום | שיפור/קלף
 
-## למכור (20)
-Dreaming Red Sheep | 1 | ZenyEmpire/תיק |  | 400M
-Costume Jumbo Rabbit | 1 | Cuteanddeadly/מחסן Kafra |  | 160M
-Ring of Ceyneian of Ranger | 1 | Cuteanddeadly/מחסן Kafra |  | 120M
-Ring of Ceyneian of Ranger | 1 | Cuteanddeadly/תיק | Sharp Magic Card | 120M
-Double Malicious Crimson Bow [2] | 1 | Cuteanddeadly/מחסן גילדה | +15 2× Hunter Fly Card | 115M | 120.6M
-Double Kingbird Big Crossbow | 1 | Cuteanddeadly/מחסן גילדה | +12 2× Archer Skeleton Card | 85M
-Roost of Skelion | 1 | Cuteanddeadly/מחסן גילדה |  | 72M | 75M
-Illusion Armor Type A | 1 | Cuteanddeadly/מחסן גילדה | +12 3 מודולים (השם נחתך) | 60M
-Immune Erymanthian Skin | 1 | Cuteanddeadly/מחסן Kafra | +9 Raydric Card | 50M
-Ignis Cap Type K of Archer | 1 | Cuteanddeadly/מחסן גילדה | +12 | 49M | 55M
-White Wing Suit of Agility | 1 | Cuteanddeadly/מחסן גילדה | +13 | 45M
-Orb of Deprave Evil Dragon Armor [1] | 1 | Cuteanddeadly/מחסן גילדה | +13 Polluted Raydric Card | 43M | 45M
-Peerless Ancient Morocc Jewelry | 1 | Cuteanddeadly/מחסן Kafra |  | 35M
-Angeling Egg | 1 | Cuteanddeadly/מחסן גילדה |  | 35M
-Costume Fluffy Lovely Fox | 1 | Cuteanddeadly/מחסן גילדה |  | 33M | 35M
-Variant Shoes | 2 | Cuteanddeadly/מחסן גילדה |  | 2M
-Dame of Sentinel Card | 1 | Cuteanddeadly/מחסן Kafra |  | 1.85M | 1.899M
-Mr. Scream | 4 | Cuteanddeadly/מחסן Kafra |  | 1M
+## למכור (18)
+Costume Fluffy Lovely Fox | 1 | Cuteanddeadly/מחסן גילדה
+Costume Jumbo Rabbit | 1 | Cuteanddeadly/מחסן Kafra
+Double Kingbird Big Crossbow | 1 | Cuteanddeadly/מחסן גילדה | +12 2× Archer Skeleton Card
+Double Malicious Crimson Bow [2] | 1 | Cuteanddeadly/מחסן גילדה | +15 2× Hunter Fly Card
+Dreaming Red Sheep | 1 | ZenyEmpire/תיק
+Ignis Cap Type K of Archer | 1 | Cuteanddeadly/מחסן גילדה | +12
+Illusion Armor Type A | 1 | Cuteanddeadly/מחסן גילדה | +12 3 מודולים (השם נחתך)
+Immune Erymanthian Skin | 1 | Cuteanddeadly/מחסן Kafra | +9 Raydric Card
+Mr. Scream | 4 | Cuteanddeadly/מחסן Kafra
+Orb of Deprave Evil Dragon Armor [1] | 1 | Cuteanddeadly/מחסן גילדה | +13 Polluted Raydric Card
+Peerless Ancient Morocc Jewelry | 1 | Cuteanddeadly/מחסן Kafra
+Variant Shoes | 2 | Cuteanddeadly/מחסן גילדה
+White Wing Suit of Agility | 1 | Cuteanddeadly/מחסן גילדה | +13
+Angeling Egg | 1 | Cuteanddeadly/מחסן גילדה
+Roost of Skelion | 1 | Cuteanddeadly/מחסן גילדה
 Abysmal Knight Card | 1 | Cuteanddeadly/מחסן Kafra
 Abysmal Knight Card | 1 | Cuteanddeadly/מחסן גילדה
+Dame of Sentinel Card | 1 | Cuteanddeadly/מחסן Kafra
 
 ## לבדוק מחיר (217)
-Costume Samba Carnival Feather | 1 | Cuteanddeadly/על הדמות |  |  | 255.556M
-Empathizer Card | 1 | Cuteanddeadly/תיק |  | 38M | 40M
-Poring Card | 3 | buffsareus/מחסן Kafra
-Rake Horn Helm | 4 | buffsareus/מחסן Kafra
-Hero Nependess Shoes | 1 | Cuteanddeadly/מחסן גילדה | +13
-Penetration Shadow Earring | 1 | Cuteanddeadly/מחסן Kafra | +9
-Penetration Shadow Pendant | 1 | Cuteanddeadly/מחסן Kafra | +9
-Executioner Holy Water Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
-Holy Antonio's Coat | 1 | Cuteanddeadly/מחסן גילדה | +9 Angeling Card
-Peerless Autumn Headband | 1 | Cuteanddeadly/מחסן גילדה | +9 Marduk Card
-Sniper Goggle | 1 | Cuteanddeadly/מחסן Kafra
-Costume Angel Wings | 1 | Cuteanddeadly/מחסן גילדה
-Costume Egir Helm | 1 | Cuteanddeadly/מחסן Kafra
-Wandering Duck Doll Egg | 1 | Cuteanddeadly/מחסן גילדה
-Fricca's Circlet | 1 | Cuteanddeadly/מחסן Kafra
-Valkyrian Shoes | 1 | Cuteanddeadly/מחסן גילדה
-High Adventurer Suit | 1 | CutesellsWoman/על הדמות
-High Adventurer's Sandals | 1 | CutesellsWoman/על הדמות
-Anger of Thanatos Card | 1 | Cuteanddeadly/מחסן Kafra
-Stellar | 1 | Cuteanddeadly/מחסן Kafra
-Green Lace | 3 | Cuteanddeadly/מחסן Kafra
-Vesper Core 03 | 1 | Cuteanddeadly/מחסן Kafra
-Cotton Shirt | 3 | Cuteanddeadly/מחסן Kafra
-Adventurer's Suit | 1 | Cuteanddeadly/מחסן Kafra
-Mantle | 1 | Cuteanddeadly/מחסן Kafra
-Undershirt | 1 | Cuteanddeadly/מחסן Kafra
-Sandals | 1 | Cuteanddeadly/מחסן Kafra
-Ribbon | 1 | Cuteanddeadly/מחסן Kafra
-Shadow Armor | 5 | Cuteanddeadly/מחסן Kafra
-Skull Ring | 2 | Cuteanddeadly/מחסן Kafra
-Novice Criatura Academy Hat | 1 | Cuteanddeadly/מחסן Kafra
-Accessory (unidentified) | 11 | Cuteanddeadly/מחסן Kafra
-Pacifier | 1 | Cuteanddeadly/מחסן Kafra
-Buckler | 1 | Cuteanddeadly/מחסן Kafra
-Shoes | 1 | Cuteanddeadly/מחסן Kafra
-Criatura Academy Hat | 1 | Cuteanddeadly/מחסן Kafra
-Rosary | 3 | Cuteanddeadly/מחסן Kafra
-Headgear (unidentified) | 3 | Cuteanddeadly/מחסן Kafra
-Garment (unidentified) | 2 | Cuteanddeadly/מחסן Kafra
-Shadow Earring | 3 | Cuteanddeadly/מחסן Kafra
-Shadow Weapon | 3 | Cuteanddeadly/מחסן Kafra
-Shadow Shield | 4 | Cuteanddeadly/מחסן Kafra
-Shadow Pendant | 2 | Cuteanddeadly/מחסן Kafra
-Mitra | 1 | Cuteanddeadly/מחסן Kafra
-Spiritual Ring | 2 | Cuteanddeadly/מחסן Kafra
-Monkey Circlet | 1 | Cuteanddeadly/מחסן Kafra
-Stone Buckler | 1 | Cuteanddeadly/מחסן Kafra
-Wedding Dress | 2 | Cuteanddeadly/מחסן Kafra
-Diamond Ring | 2 | Cuteanddeadly/מחסן Kafra
-Peuz's Manteau | 1 | Cuteanddeadly/מחסן Kafra
-Armor (unidentified) | 5 | Cuteanddeadly/מחסן Kafra
-Manteau | 1 | Cuteanddeadly/מחסן Kafra
-Boots | 1 | Cuteanddeadly/מחסן Kafra
-Muffler | 1 | Cuteanddeadly/מחסן Kafra
-Matyr's Leash | 1 | Cuteanddeadly/מחסן Kafra
-Romantic Leaf | 1 | Cuteanddeadly/מחסן Kafra
-Royal Guard Necklace | 1 | Cuteanddeadly/מחסן Kafra
-Shadow Shoes | 1 | Cuteanddeadly/מחסן Kafra
-Doram Shoes | 1 | Cuteanddeadly/מחסן Kafra
-Lava Leather Muffler | 1 | Cuteanddeadly/מחסן Kafra
-Silversmith Bracelet | 1 | Cuteanddeadly/מחסן Kafra
-Elegant Doram Shoes | 1 | Cuteanddeadly/מחסן Kafra
-Angel's Reincarnation | 1 | Cuteanddeadly/מחסן Kafra
-Halo | 1 | Cuteanddeadly/מחסן Kafra
-Beloved Mastering Egg | 1 | Cuteanddeadly/מחסן Kafra
-Lava Leather Suits | 1 | Cuteanddeadly/מחסן Kafra
-Lava Leather Armor | 1 | Cuteanddeadly/מחסן Kafra
-Banana Hat | 1 | Cuteanddeadly/מחסן Kafra
-Spiky Band | 1 | Cuteanddeadly/מחסן Kafra
-Bison Horn | 1 | Cuteanddeadly/מחסן Kafra
-Survivor's Manteau | 1 | Cuteanddeadly/מחסן Kafra
-Sacred Mission | 1 | Cuteanddeadly/מחסן Kafra
-Costume Goggles | 1 | Cuteanddeadly/מחסן Kafra
-Saphien's Armor of Ocean | 1 | Cuteanddeadly/מחסן Kafra
-Scissors Hunting Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
-Fishing Insect Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
-Puente Robe | 1 | Cuteanddeadly/מחסן Kafra
-Exorcist Corrupt Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
-Peuz's Greaves | 1 | Cuteanddeadly/מחסן Kafra
-Peuz's Seal | 1 | Cuteanddeadly/מחסן Kafra
-Peuz's Plate | 1 | Cuteanddeadly/מחסן Kafra
-Pet Accessory | 1 | Cuteanddeadly/מחסן Kafra
-Rough Core | 1 | Cuteanddeadly/מחסן Kafra
-Narcissus Bow | 1 | Cuteanddeadly/מחסן Kafra
-Iron Nail | 1 | Cuteanddeadly/מחסן Kafra
-Golden Rod Launcher | 1 | Cuteanddeadly/מחסן Kafra
-Ray Knuckle | 2 | Cuteanddeadly/מחסן Kafra
-Mystic Bow | 1 | Cuteanddeadly/מחסן Kafra
-Cursed Lyre | 2 | Cuteanddeadly/מחסן Kafra
-Blue Crystal Staff | 1 | Cuteanddeadly/מחסן Kafra
-Magic Sword | 1 | Cuteanddeadly/מחסן Kafra
-Huuma Shuriken Clear | 1 | Cuteanddeadly/מחסן Kafra
-Trumpet Shell | 1 | Cuteanddeadly/מחסן Kafra
-Bellum Crossbow | 1 | Cuteanddeadly/מחסן Kafra
-Two-Handed Spear | 1 | Cuteanddeadly/מחסן Kafra
-Orcish Axe | 1 | Cuteanddeadly/מחסן Kafra
-Bow | 1 | Cuteanddeadly/מחסן Kafra
-Great Bow | 1 | Cuteanddeadly/מחסן Kafra
-Earth Bow | 3 | Cuteanddeadly/מחסן Kafra
-Club | 2 | Cuteanddeadly/מחסן Kafra
-One-Handed Staff | 1 | Cuteanddeadly/מחסן Kafra
-Blunt | 1 | Cuteanddeadly/מחסן Kafra
-Bible | 1 | Cuteanddeadly/מחסן Kafra
-Knife | 3 | Cuteanddeadly/מחסן Kafra
-Axe | 1 | Cuteanddeadly/מחסן Kafra
-Javelin | 1 | Cuteanddeadly/מחסן Kafra
-Sword | 1 | Cuteanddeadly/מחסן Kafra
-Mace | 3 | Cuteanddeadly/מחסן Kafra
-Novice Mace | 1 | Cuteanddeadly/מחסן Kafra
-Electric Fist | 4 | Cuteanddeadly/מחסן Kafra
-Evil Bone Wand | 1 | Cuteanddeadly/מחסן Kafra | +5
-Wondrous Foxtail Staff | 2 | Cuteanddeadly/מחסן Kafra
-Fine Foxtail Replica | 2 | Cuteanddeadly/מחסן Kafra
-Laphine Staff | 1 | Cuteanddeadly/מחסן Kafra
-Elven Bow | 1 | Cuteanddeadly/מחסן Kafra
-Tirfing | 1 | Cuteanddeadly/מחסן Kafra
-Berserk | 1 | Cuteanddeadly/מחסן Kafra
-Gae Bolg | 1 | Cuteanddeadly/מחסן Kafra
-Whip | 1 | Cuteanddeadly/מחסן Kafra
-Novice Battle Axe | 1 | Cuteanddeadly/מחסן Kafra
-Berdysz | 1 | Cuteanddeadly/מחסן Kafra
-Battle Hook | 1 | Cuteanddeadly/מחסן Kafra
-Illusion Iron Driver | 1 | Cuteanddeadly/מחסן Kafra
-Relapse Katar | 4 | Cuteanddeadly/מחסן Kafra
-Relapse Axe | 2 | Cuteanddeadly/מחסן Kafra
-Relapse Cross | 2 | Cuteanddeadly/מחסן Kafra
-Relapse Dagger | 1 | Cuteanddeadly/מחסן Kafra
-Crimson Rod | 1 | Cuteanddeadly/מחסן Kafra
-Desert Twilight | 1 | Cuteanddeadly/מחסן Kafra
-Icicle Whip | 1 | Cuteanddeadly/מחסן Kafra
-Crimson Mace | 1 | Cuteanddeadly/מחסן Kafra
-Goldsmithing Dagger | 1 | Cuteanddeadly/מחסן Kafra
-Dragonfly Sitting Foxtail Staff | 1 | Cuteanddeadly/מחסן Kafra
-Crimson Bible | 3 | Cuteanddeadly/מחסן Kafra
-Snowier Card | 1 | Cuteanddeadly/מחסן Kafra
-Fruit Pom Spider Card | 1 | Cuteanddeadly/מחסן Kafra
-Novice Poring Card | 4 | Cuteanddeadly/מחסן Kafra
-Creamy Card | 1 | Cuteanddeadly/מחסן Kafra
-Resentful Soldier Card | 2 | Cuteanddeadly/מחסן Kafra
-Kick Step Card | 1 | Cuteanddeadly/מחסן Kafra
-Ominous Permeter Card | 2 | Cuteanddeadly/מחסן Kafra
-Firm Kaho Card | 2 | Cuteanddeadly/מחסן Kafra
-Firm Blazzer Card | 1 | Cuteanddeadly/מחסן Kafra
-Firm Ground Deleter Card | 1 | Cuteanddeadly/מחסן Kafra
-Firm Explosion Card | 1 | Cuteanddeadly/מחסן Kafra
-Resentment of Thanatos Card | 1 | Cuteanddeadly/מחסן Kafra
-Book of Death Card | 1 | Cuteanddeadly/מחסן Kafra
-Brutal Murderer Card | 1 | Cuteanddeadly/מחסן Kafra
-Polluted Wander Man Card | 1 | Cuteanddeadly/מחסן Kafra
-Gan Ceann Card | 1 | Cuteanddeadly/מחסן Kafra
-Restless Dead Card | 1 | Cuteanddeadly/מחסן Kafra
-Picky Egg Card | 1 | Cuteanddeadly/מחסן Kafra
-Void Mimic Card | 1 | Cuteanddeadly/מחסן Kafra
-Pierrotzoist Card | 1 | Cuteanddeadly/מחסן Kafra
-Disguiser Card | 1 | Cuteanddeadly/מחסן Kafra
-Costume Novice Rabbit Hood | 1 | CutesellsWoman/תיק
 Costume 20th Anniversary Fairy Wing | 1 | Cuteanddeadly/תיק
 Costume 20th Anniversary Poring | 1 | Cuteanddeadly/תיק
-unknown bag icon | 1 | ZenyEmpire/תיק
+Costume Angel Wings | 1 | Cuteanddeadly/מחסן גילדה
 Costume Burning Cloak | 1 | ZenyEmpire/תיק
-Falconer Flute | 1 | Cuteanddeadly/מחסן Kafra
-Magical Booster | 1 | Cuteanddeadly/מחסן Kafra
-Rabbit Pattern Shirt | 1 | Cuteanddeadly/מחסן Kafra
+Costume Egir Helm | 1 | Cuteanddeadly/מחסן Kafra
+Costume Goggles | 1 | Cuteanddeadly/מחסן Kafra
+Costume Goggles | 1 | Cuteanddeadly/מחסן גילדה
+Costume Novice Rabbit Hood | 1 | CutesellsWoman/תיק
+Costume Ribbon Hat | 1 | Cuteanddeadly/מחסן גילדה
+Costume Samba Carnival Feather | 1 | Cuteanddeadly/על הדמות
+Accessory (unidentified) | 11 | Cuteanddeadly/מחסן Kafra
+Adventurer's Suit | 1 | Cuteanddeadly/מחסן Kafra
+Alchemy Glove | 1 | Cuteanddeadly/מחסן גילדה
+Angel's Reincarnation | 1 | Cuteanddeadly/מחסן Kafra
+Aqua Benedict Valkyrie Drop | 1 | Cuteanddeadly/מחסן גילדה
+Armor (unidentified) | 5 | Cuteanddeadly/מחסן Kafra
+Arrow Shadow Armor | 1 | Cuteanddeadly/מחסן גילדה | +10
+Arrow Shadow Shield | 1 | Cuteanddeadly/מחסן גילדה | +9
+Arrow Shadow Shoes | 1 | Cuteanddeadly/מחסן גילדה | +9
+Axe | 1 | Cuteanddeadly/מחסן Kafra
+Banana Hat | 1 | Cuteanddeadly/מחסן Kafra
+Battle Hook | 1 | Cuteanddeadly/מחסן Kafra
+Bellum Crossbow | 1 | Cuteanddeadly/מחסן Kafra
+Beloved Mastering Egg | 1 | Cuteanddeadly/מחסן Kafra
+Berdysz | 1 | Cuteanddeadly/מחסן Kafra
+Berserk | 1 | Cuteanddeadly/מחסן Kafra
+Bible | 1 | Cuteanddeadly/מחסן Kafra
+Bison Horn | 1 | Cuteanddeadly/מחסן Kafra
+Blue Crystal Staff | 1 | Cuteanddeadly/מחסן Kafra
+Blunt | 1 | Cuteanddeadly/מחסן Kafra
+Boots | 1 | Cuteanddeadly/מחסן Kafra
+Bow | 1 | Cuteanddeadly/מחסן Kafra
+Brionac | 1 | Cuteanddeadly/מחסן גילדה
+Buckler | 1 | Cuteanddeadly/מחסן Kafra
+Club | 2 | Cuteanddeadly/מחסן Kafra
+Corrode Garden Knife | 1 | Cuteanddeadly/מחסן גילדה
+Cotton Shirt | 3 | Cuteanddeadly/מחסן Kafra
+Criatura Academy Hat | 1 | Cuteanddeadly/מחסן Kafra
+Crimson Bible | 3 | Cuteanddeadly/מחסן Kafra
+Crimson Mace | 1 | Cuteanddeadly/מחסן Kafra
+Crimson Rod | 1 | Cuteanddeadly/מחסן Kafra
+Cursed Lyre | 2 | Cuteanddeadly/מחסן Kafra
+Death Guidance | 1 | Cuteanddeadly/מחסן גילדה
 Demon's Familiar [1] | 1 | Cuteanddeadly/מחסן Kafra
+Desert Twilight | 1 | Cuteanddeadly/מחסן Kafra
+Diamond Ring | 2 | Cuteanddeadly/מחסן Kafra
+Doram Shoes | 1 | Cuteanddeadly/מחסן Kafra
+Dragonfly Sitting Foxtail Staff | 1 | Cuteanddeadly/מחסן Kafra
+Earth Bow | 3 | Cuteanddeadly/מחסן Kafra
+Electric Fist | 4 | Cuteanddeadly/מחסן Kafra
+Elegant Doram Shoes | 1 | Cuteanddeadly/מחסן Kafra
+Elven Bow | 1 | Cuteanddeadly/מחסן Kafra
+Evil Bone Wand | 1 | Cuteanddeadly/מחסן Kafra | +5
+Executioner Holy Water Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
+Exorcist Corrupt Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
+Falconer Flute | 1 | Cuteanddeadly/מחסן Kafra
+Fine Foxtail Replica | 2 | Cuteanddeadly/מחסן Kafra
+Fireblend | 2 | Cuteanddeadly/מחסן גילדה
+Fishing Insect Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
 Fortified Claymore | 1 | Cuteanddeadly/מחסן Kafra
-Fortified Rod | 1 | Cuteanddeadly/מחסן Kafra
-Wicked Cross | 1 | Cuteanddeadly/מחסן Kafra
-Witch's Broom | 1 | Cuteanddeadly/מחסן Kafra
-Fortified Spear | 1 | Cuteanddeadly/מחסן Kafra
-Fortified Rod | 1 | Cuteanddeadly/מחסן Kafra
 Fortified Dagger | 1 | Cuteanddeadly/מחסן Kafra
 Fortified Manual | 1 | Cuteanddeadly/מחסן Kafra
-Death Guidance | 1 | Cuteanddeadly/מחסן גילדה
-Hunter Bow | 1 | Cuteanddeadly/מחסן גילדה | +12
-Two-handed Sword | 1 | Cuteanddeadly/מחסן גילדה
-Queenbird Heavy Blade Virtual Bow-OS | 1 | Cuteanddeadly/מחסן גילדה | +12
-Illusion Immaterial Sword | 1 | Cuteanddeadly/מחסן גילדה
-Witch's Broom | 3 | Cuteanddeadly/מחסן גילדה
-Ledger of Death | 1 | Cuteanddeadly/מחסן גילדה
-Hellfire | 1 | Cuteanddeadly/מחסן גילדה
-Knife | 1 | Cuteanddeadly/מחסן גילדה
-Relapse Blade | 1 | Cuteanddeadly/מחסן גילדה
-Relapse Axe | 1 | Cuteanddeadly/מחסן גילדה
-Staff of Destruction | 1 | Cuteanddeadly/מחסן גילדה
-Fireblend | 2 | Cuteanddeadly/מחסן גילדה
-Corrode Garden Knife | 1 | Cuteanddeadly/מחסן גילדה
-Brionac | 1 | Cuteanddeadly/מחסן גילדה
-Relapse Cross | 1 | Cuteanddeadly/מחסן גילדה
-Ray Knuckle | 1 | Cuteanddeadly/מחסן גילדה
-Iron Nail | 1 | Cuteanddeadly/מחסן גילדה
-Precision Shatter | 2 | Cuteanddeadly/מחסן גילדה
-Solid Staff | 2 | Cuteanddeadly/מחסן גילדה
-Solid Rod | 2 | Cuteanddeadly/מחסן גילדה
-Solid Wand | 1 | Cuteanddeadly/מחסן גילדה
-Solid Spear | 1 | Cuteanddeadly/מחסן גילדה
-Wicked Axe | 2 | Cuteanddeadly/מחסן גילדה
-Costume Goggles | 1 | Cuteanddeadly/מחסן גילדה
-Moon Follower Eyepatch | 1 | Cuteanddeadly/מחסן גילדה
-Tai-Zi Egg | 1 | Cuteanddeadly/מחסן גילדה
-White Wing Manteau | 1 | Cuteanddeadly/מחסן גילדה | +11
-White Wing Brooch | 1 | Cuteanddeadly/מחסן גילדה
-Orc Hero Egg | 1 | Cuteanddeadly/מחסן גילדה
+Fortified Rod | 1 | Cuteanddeadly/מחסן Kafra
+Fortified Rod | 1 | Cuteanddeadly/מחסן Kafra
+Fortified Spear | 1 | Cuteanddeadly/מחסן Kafra
+Fricca's Circlet | 1 | Cuteanddeadly/מחסן Kafra
+Gae Bolg | 1 | Cuteanddeadly/מחסן Kafra
+Garment (unidentified) | 2 | Cuteanddeadly/מחסן Kafra
 Ghostly Aura | 1 | Cuteanddeadly/מחסן גילדה
-Arrow Shadow Armor | 1 | Cuteanddeadly/מחסן גילדה | +10
-Vibration Dragon Killer Shadow Weapon | 1 | Cuteanddeadly/מחסן גילדה | +7
-White Bird Rose | 1 | Cuteanddeadly/מחסן גילדה
-True Hunting Ring | 1 | Cuteanddeadly/מחסן גילדה
-Under a Cast Clip | 1 | Cuteanddeadly/מחסן גילדה
-Aqua Benedict Valkyrie Drop | 1 | Cuteanddeadly/מחסן גילדה
+Golden Rod Launcher | 1 | Cuteanddeadly/מחסן Kafra
+Goldsmithing Dagger | 1 | Cuteanddeadly/מחסן Kafra
+Great Bow | 1 | Cuteanddeadly/מחסן Kafra
+Green Lace | 3 | Cuteanddeadly/מחסן Kafra
+Halo | 1 | Cuteanddeadly/מחסן Kafra
 Happy Balloon | 1 | Cuteanddeadly/מחסן גילדה
-Valkyrie Drop of Mad Witch | 1 | Cuteanddeadly/מחסן גילדה
-Alchemy Glove | 1 | Cuteanddeadly/מחסן גילדה
-Arrow Shadow Shield | 1 | Cuteanddeadly/מחסן גילדה | +9
-Costume Ribbon Hat | 1 | Cuteanddeadly/מחסן גילדה
-Arrow Shadow Shoes | 1 | Cuteanddeadly/מחסן גילדה | +9
+Headgear (unidentified) | 3 | Cuteanddeadly/מחסן Kafra
+Hellfire | 1 | Cuteanddeadly/מחסן גילדה
+Hero Nependess Shoes | 1 | Cuteanddeadly/מחסן גילדה | +13
+High Adventurer Suit | 1 | CutesellsWoman/על הדמות
+High Adventurer's Sandals | 1 | CutesellsWoman/על הדמות
+Holy Antonio's Coat | 1 | Cuteanddeadly/מחסן גילדה | +9 Angeling Card
+Hunter Bow | 1 | Cuteanddeadly/מחסן גילדה | +12
+Huuma Shuriken Clear | 1 | Cuteanddeadly/מחסן Kafra
+Icicle Whip | 1 | Cuteanddeadly/מחסן Kafra
+Illusion Immaterial Sword | 1 | Cuteanddeadly/מחסן גילדה
+Illusion Iron Driver | 1 | Cuteanddeadly/מחסן Kafra
+Iron Nail | 1 | Cuteanddeadly/מחסן Kafra
+Iron Nail | 1 | Cuteanddeadly/מחסן גילדה
+Javelin | 1 | Cuteanddeadly/מחסן Kafra
+Knife | 3 | Cuteanddeadly/מחסן Kafra
+Knife | 1 | Cuteanddeadly/מחסן גילדה
+Laphine Staff | 1 | Cuteanddeadly/מחסן Kafra
+Lava Leather Armor | 1 | Cuteanddeadly/מחסן Kafra
+Lava Leather Muffler | 1 | Cuteanddeadly/מחסן Kafra
+Lava Leather Suits | 1 | Cuteanddeadly/מחסן Kafra
+Ledger of Death | 1 | Cuteanddeadly/מחסן גילדה
+Mace | 3 | Cuteanddeadly/מחסן Kafra
+Magic Sword | 1 | Cuteanddeadly/מחסן Kafra
+Magical Booster | 1 | Cuteanddeadly/מחסן Kafra
+Manteau | 1 | Cuteanddeadly/מחסן Kafra
+Mantle | 1 | Cuteanddeadly/מחסן Kafra
+Matyr's Leash | 1 | Cuteanddeadly/מחסן Kafra
+Mitra | 1 | Cuteanddeadly/מחסן Kafra
+Monkey Circlet | 1 | Cuteanddeadly/מחסן Kafra
+Moon Follower Eyepatch | 1 | Cuteanddeadly/מחסן גילדה
+Muffler | 1 | Cuteanddeadly/מחסן Kafra
+Mystic Bow | 1 | Cuteanddeadly/מחסן Kafra
+Narcissus Bow | 1 | Cuteanddeadly/מחסן Kafra
+Novice Battle Axe | 1 | Cuteanddeadly/מחסן Kafra
+Novice Criatura Academy Hat | 1 | Cuteanddeadly/מחסן Kafra
+Novice Mace | 1 | Cuteanddeadly/מחסן Kafra
+One-Handed Staff | 1 | Cuteanddeadly/מחסן Kafra
+Orc Hero Egg | 1 | Cuteanddeadly/מחסן גילדה
+Orcish Axe | 1 | Cuteanddeadly/מחסן Kafra
+Pacifier | 1 | Cuteanddeadly/מחסן Kafra
+Peerless Autumn Headband | 1 | Cuteanddeadly/מחסן גילדה | +9 Marduk Card
+Penetration Shadow Earring | 1 | Cuteanddeadly/מחסן Kafra | +9
+Penetration Shadow Pendant | 1 | Cuteanddeadly/מחסן Kafra | +9
+Pet Accessory | 1 | Cuteanddeadly/מחסן Kafra
+Peuz's Greaves | 1 | Cuteanddeadly/מחסן Kafra
+Peuz's Manteau | 1 | Cuteanddeadly/מחסן Kafra
+Peuz's Plate | 1 | Cuteanddeadly/מחסן Kafra
+Peuz's Seal | 1 | Cuteanddeadly/מחסן Kafra
+Precision Shatter | 2 | Cuteanddeadly/מחסן גילדה
+Puente Robe | 1 | Cuteanddeadly/מחסן Kafra
+Queenbird Heavy Blade Virtual Bow-OS | 1 | Cuteanddeadly/מחסן גילדה | +12
+Rabbit Pattern Shirt | 1 | Cuteanddeadly/מחסן Kafra
 Rabbit Pattern Shirt | 3 | Cuteanddeadly/מחסן גילדה
+Rake Horn Helm | 4 | buffsareus/מחסן Kafra
+Ray Knuckle | 2 | Cuteanddeadly/מחסן Kafra
+Ray Knuckle | 1 | Cuteanddeadly/מחסן גילדה
+Relapse Axe | 2 | Cuteanddeadly/מחסן Kafra
+Relapse Axe | 1 | Cuteanddeadly/מחסן גילדה
+Relapse Blade | 1 | Cuteanddeadly/מחסן גילדה
+Relapse Cross | 2 | Cuteanddeadly/מחסן Kafra
+Relapse Cross | 1 | Cuteanddeadly/מחסן גילדה
+Relapse Dagger | 1 | Cuteanddeadly/מחסן Kafra
+Relapse Katar | 4 | Cuteanddeadly/מחסן Kafra
+Ribbon | 1 | Cuteanddeadly/מחסן Kafra
+Romantic Leaf | 1 | Cuteanddeadly/מחסן Kafra
+Rosary | 3 | Cuteanddeadly/מחסן Kafra
+Rough Core | 1 | Cuteanddeadly/מחסן Kafra
+Royal Guard Necklace | 1 | Cuteanddeadly/מחסן Kafra
+Sacred Mission | 1 | Cuteanddeadly/מחסן Kafra
+Sandals | 1 | Cuteanddeadly/מחסן Kafra
+Saphien's Armor of Ocean | 1 | Cuteanddeadly/מחסן Kafra
+Scissors Hunting Shadow Weapon | 1 | Cuteanddeadly/מחסן Kafra | +7
+Shadow Armor | 5 | Cuteanddeadly/מחסן Kafra
+Shadow Earring | 3 | Cuteanddeadly/מחסן Kafra
+Shadow Pendant | 2 | Cuteanddeadly/מחסן Kafra
+Shadow Shield | 4 | Cuteanddeadly/מחסן Kafra
+Shadow Shoes | 1 | Cuteanddeadly/מחסן Kafra
+Shadow Weapon | 3 | Cuteanddeadly/מחסן Kafra
+Shoes | 1 | Cuteanddeadly/מחסן Kafra
+Silversmith Bracelet | 1 | Cuteanddeadly/מחסן Kafra
+Skull Ring | 2 | Cuteanddeadly/מחסן Kafra
+Sniper Goggle | 1 | Cuteanddeadly/מחסן Kafra
+Solid Rod | 2 | Cuteanddeadly/מחסן גילדה
+Solid Spear | 1 | Cuteanddeadly/מחסן גילדה
+Solid Staff | 2 | Cuteanddeadly/מחסן גילדה
+Solid Wand | 1 | Cuteanddeadly/מחסן גילדה
+Spiky Band | 1 | Cuteanddeadly/מחסן Kafra
+Spiritual Ring | 2 | Cuteanddeadly/מחסן Kafra
+Staff of Destruction | 1 | Cuteanddeadly/מחסן גילדה
+Stellar | 1 | Cuteanddeadly/מחסן Kafra
+Stone Buckler | 1 | Cuteanddeadly/מחסן Kafra
+Survivor's Manteau | 1 | Cuteanddeadly/מחסן Kafra
+Sword | 1 | Cuteanddeadly/מחסן Kafra
+Tai-Zi Egg | 1 | Cuteanddeadly/מחסן גילדה
+Tirfing | 1 | Cuteanddeadly/מחסן Kafra
+True Hunting Ring | 1 | Cuteanddeadly/מחסן גילדה
+Trumpet Shell | 1 | Cuteanddeadly/מחסן Kafra
+Two-Handed Spear | 1 | Cuteanddeadly/מחסן Kafra
+Two-handed Sword | 1 | Cuteanddeadly/מחסן גילדה
+Under a Cast Clip | 1 | Cuteanddeadly/מחסן גילדה
+Undershirt | 1 | Cuteanddeadly/מחסן Kafra
+Valkyrian Shoes | 1 | Cuteanddeadly/מחסן גילדה
+Valkyrie Drop of Mad Witch | 1 | Cuteanddeadly/מחסן גילדה
+Vesper Core 03 | 1 | Cuteanddeadly/מחסן Kafra
+Vibration Dragon Killer Shadow Weapon | 1 | Cuteanddeadly/מחסן גילדה | +7
+Wedding Dress | 2 | Cuteanddeadly/מחסן Kafra
+Whip | 1 | Cuteanddeadly/מחסן Kafra
+White Bird Rose | 1 | Cuteanddeadly/מחסן גילדה
+White Wing Brooch | 1 | Cuteanddeadly/מחסן גילדה
+White Wing Manteau | 1 | Cuteanddeadly/מחסן גילדה | +11
+Wicked Axe | 2 | Cuteanddeadly/מחסן גילדה
+Wicked Cross | 1 | Cuteanddeadly/מחסן Kafra
+Witch's Broom | 1 | Cuteanddeadly/מחסן Kafra
+Witch's Broom | 3 | Cuteanddeadly/מחסן גילדה
+Wondrous Foxtail Staff | 2 | Cuteanddeadly/מחסן Kafra
+unknown bag icon | 1 | ZenyEmpire/תיק
+Wandering Duck Doll Egg | 1 | Cuteanddeadly/מחסן גילדה
 Ambernite Card | 1 | Cuteanddeadly/מחסן גילדה
+Anger of Thanatos Card | 1 | Cuteanddeadly/מחסן Kafra
+Book of Death Card | 1 | Cuteanddeadly/מחסן Kafra
+Brutal Murderer Card | 1 | Cuteanddeadly/מחסן Kafra
+Creamy Card | 1 | Cuteanddeadly/מחסן Kafra
+Disguiser Card | 1 | Cuteanddeadly/מחסן Kafra
+Empathizer Card | 1 | Cuteanddeadly/תיק
+Firm Blazzer Card | 1 | Cuteanddeadly/מחסן Kafra
+Firm Explosion Card | 1 | Cuteanddeadly/מחסן Kafra
+Firm Ground Deleter Card | 1 | Cuteanddeadly/מחסן Kafra
+Firm Kaho Card | 2 | Cuteanddeadly/מחסן Kafra
+Fruit Pom Spider Card | 1 | Cuteanddeadly/מחסן Kafra
+Gan Ceann Card | 1 | Cuteanddeadly/מחסן Kafra
+Kick Step Card | 1 | Cuteanddeadly/מחסן Kafra
+Novice Poring Card | 4 | Cuteanddeadly/מחסן Kafra
+Ominous Permeter Card | 2 | Cuteanddeadly/מחסן Kafra
+Picky Egg Card | 1 | Cuteanddeadly/מחסן Kafra
+Pierrotzoist Card | 1 | Cuteanddeadly/מחסן Kafra
+Polluted Wander Man Card | 1 | Cuteanddeadly/מחסן Kafra
+Poring Card | 3 | buffsareus/מחסן Kafra
+Resentful Soldier Card | 2 | Cuteanddeadly/מחסן Kafra
+Resentment of Thanatos Card | 1 | Cuteanddeadly/מחסן Kafra
+Restless Dead Card | 1 | Cuteanddeadly/מחסן Kafra
+Snowier Card | 1 | Cuteanddeadly/מחסן Kafra
+Void Mimic Card | 1 | Cuteanddeadly/מחסן Kafra
 
 ## להשאיר – ציוד וקלפים (1)
 Invincible Crest Hat | 1 | Cuteanddeadly/מחסן Kafra | +13
