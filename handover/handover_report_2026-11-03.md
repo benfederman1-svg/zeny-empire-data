@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 | Cuteanddeadly | oshen11 | ראשית, Windhawk 247 | 398,260,243 | 2/11 ~13:05 [רישום, מצילום] |
 | CutesellsWoman | oshen11 | מרצ'נט ראשי וקופה | 91,924,117 | 3/11 ~10:25 [מאומת], אחרי 3 קניות הבוקר |
-| ZenyEmpire | OsherFederma | מרצ'נט משני | 492,420,690 | 3/11 00:17 [רישום] |
+| ZenyEmpire | OsherFederma | מרצ'נט משני | 492,420,690 | 3/11 11:24 [מאומת בצילום] |
 | buffsareus | oshen11 | Arch Bishop 146, באפר | 1,488,616 | 2/11 [רישום] |
 | LoveBubbles | BenFederman | מרצ'נט שלישי (Job 19) | 6,349,914 | 3/11 10:39 [מאומת בצילום] |
 | LoveClover | agam25 | Novice באימון ל-Merchant | [לא ידוע] | קיבלה כ-500,000 מ-LoveBubbles ב-3/11 [לא מאומת] |
@@ -309,11 +309,11 @@
 7. **LoveBubbles:** עודכנה ל-Merchant, Base 14 / Job 19.
 
 **פתוח (לא ניתן לתקן בלי מידע מאושר):**
-1. **Abysmal Knight Card:** הערה ישנה אומרת שאחד נמכר ב-ZenyEmpire, אבל אין על כך עסקה, והחנות מציגה ×2. צריך צילום של החנות.
+1. ✅ (נסגר 11:24) Abysmal Knight Card: אומת בצילום. שני הקלפים בחנות ZenyEmpire ב-3,300,000. ההערה הישנה על מכירה הייתה שגויה.
 2. **יתרות שלא נבדקו היום:**
    - LoveClover: לא ידוע.
    - Cuteanddeadly ו-buffsareus: מ-2/11.
-   - ZenyEmpire: מ-3/11 00:17.
+   - ZenyEmpire: אומת היום (3/11 11:24), 492,420,690.
 3. **רמות CutesellsWoman** לא רשומות.
 4. **פריטים שלא נמצאו:**
    - Peerless Ancient Morocc Jewelry, Variant Shoes ×2, קלף Resentment.
