@@ -1,10 +1,10 @@
-# Zeny Empire – דוח העברת מצב (3/11/2026, 10:55 שעון ישראל)
+# Zeny Empire – דוח העברת מצב (3/11/2026, עודכן 11:35 שעון ישראל, אחרי תיקון הבאגים)
 
 הוכן על ידי Claude לפי בקשת אושר, לקראת חלוקת אחריות חדשה:
 - **ChatGPT:** ניהול עסקי, אסטרטגיה ומחירים.
 - **Claude:** מלאי, איסוף נתוני שוק ופיתוח האתר.
 
-במהלך הכנת הדוח לא שונה שום דבר במערכת. הנתונים נקראו בלבד.
+הדוח הוכן בלי לשנות שום דבר במערכת. ב-11:30 אושר אישר לתקן את הבאגים שנמצאו (פירוט בסעיף 9). לפני התיקון נשמר גיבוי מלא: `zeny-empire/backup-before-fixes-2026-11-03.json`.
 
 **מקרא לרמת הוודאות:**
 - **[מאומת]** – נראה בצילום מסך של אושר או שאושר אמר במפורש.
@@ -28,29 +28,46 @@
 | **סה"כ ידוע** | | | **990,443,580** | בלי LoveClover |
 
 הערות:
-- `settings/main` במסד לא מעודכן. בשדה liquid רשום 1,035,544,848 (2/11 20:09), ו-CutesellsWoman רשומה שם על 143,375,299. LoveBubbles ו-LoveClover לא מופיעות ב-settings.zeny.
+- `settings/main` עודכן (תיקון 3/11 11:30): liquid = 990,443,580. ל-LoveClover עדיין אין יתרה, והאתר מציג אצלה "לא ידוע".
 - תקרת זני לדמות לפי iRO Wiki: 2,147,483,647.
 
 ## 2. מלאי
 
-המסד מכיל 791 רשומות. הבסיס הוא ספירה מלאה מצילומי מסך מ-2/11, עם עדכונים עד 3/11. הקובץ המלא: `inventory_db_2026-11-03.csv` (בתיקייה הזו).
+המסד מכיל 796 רשומות. הבסיס הוא ספירה מלאה מצילומי מסך מ-2/11, עם עדכונים עד 3/11 11:30. הקובץ המלא: `inventory_db_2026-11-03.csv` (בתיקייה הזו).
 
 | דמות | מיקום | רשומות |
 |---|---|---|
-| Cuteanddeadly* | מחסן Kafra (ראשי ומשני, משותף לחשבון oshen11) | 544 |
-| Cuteanddeadly* | מחסן גילדה (Guild Of Love, משותף לכל הדמויות) | 89 |
-| Cuteanddeadly | על הדמות (ציוד לבוש) | 20 |
-| Cuteanddeadly | תיק | 34 |
-| CutesellsWoman | על הדמות / תיק / לא מוגדר | 3 / 27 / 1 |
-| ZenyEmpire | על הדמות / תיק | 3 / 17 |
-| buffsareus | מחסן Kafra / על הדמות / תיק | 37 / 2 / 2 |
-| LoveBubbles | עגלה | 12 |
+| Cuteanddeadly* | מחסן Kafra (ראשי ומשני, משותף לחשבון oshen11) | 535 |
+| Cuteanddeadly* | מחסן גילדה (Guild Of Love, משותף לכל הדמויות) | 74 |
+| Cuteanddeadly | על הדמות / תיק | 20 / 34 |
+| CutesellsWoman | חנות (רגילה 12 + מוכר פרטי 4) | 16 |
+| CutesellsWoman | תיק / על הדמות | 30 / 2 |
+| ZenyEmpire | חנות / תיק / על הדמות | 12 / 15 / 3 |
+| LoveBubbles | חנות | 12 |
+| LoveClover | תיק (Bat Von Blood) | 1 |
+| buffsareus | מחסן Kafra / תיק / על הדמות | 37 / 2 / 2 |
 
 \* מחסנים משותפים נרשמו תחת Cuteanddeadly, אבל בפועל כל דמות בחשבון oshen11 ניגשת למחסן הראשי, וכל דמות בגילדה ניגשת למחסן הגילדה.
 
-- סטטוסים במסד: להשאיר 351, להשתמש 208, לבדוק מחיר 204, למכור 26, למכירה 1, נמכר 1.
-- רק ל-3 פריטים רשומה עלות קנייה: Kshatra +13 (14,999,999), Bat Von Blood (17,990,000) ו-Dame of Sentinel Card (1,900,000).
-- **פריטים בחנויות לא מסומנים נכון במסד** (פירוט בסעיף 9). המצב הנכון של החנויות מופיע בסעיף 5.
+**סטטוסים במסד:**
+
+| סטטוס | רשומות |
+|---|---|
+| להשאיר | 350 |
+| להשתמש | 211 |
+| לבדוק מחיר | 184 |
+| למכור | 47 |
+| נמכר | 4 |
+
+**עלות קנייה רשומה ל-6 פריטים:**
+- Kshatra +13: 14,999,999
+- Bat Von Blood: 17,990,000
+- Dame of Sentinel Card: 1,900,000
+- Cherry Blossom: 14,444,444
+- Footprints: 3,000,000
+- Premium Box: 33,999,998
+
+**פריטים בחנויות:** כל פריט בחנות מסומן במסד כ-`loc=חנות`, יחד עם `shop` של החנות ו-`price` שהוא המחיר המפורסם.
 
 ## 3. פריטים למכירה ופריטים לשמירה
 
@@ -203,7 +220,7 @@
 |---|---|---|
 | settings/main | 1 | liquid, reserve (100M), dealCap (200M), zeny{דמות:{v,at}}, zcap, thr |
 | characters | 6 | name, acc, cls, blv, jlv, role, ctype, active |
-| items | 791 | name, refine, card, qty, char, loc, cat, status, keep, shop, price, cost, mkt, npc, notes |
+| items | 796 | name, refine, card, qty, char, loc, cat, status, keep, shop, price, cost, mkt, npc, notes |
 | shops | 4 | char, kind, title, listing[{n,p}], sold[], openedAt, zenyBase, active |
 | trades | 9 | ראו הבאג בסעיף 9 |
 | snapshots | 1 | 2026-11-01 |
@@ -262,24 +279,49 @@
 
 ## 9. משימות פתוחות, באגים ובעיות ידועות
 
-**באגים ופערים בנתונים (לא תוקנו, ממתינים לאישור):**
-1. **רשומות העסקאות לא בפורמט של האתר.** האתר מחשב לפי השדות `side/total/tax/cost/profit/d/ch`, אבל 9 העסקאות נשמרו עם `type/price/char`. לכן הדשבורד הפיננסי לא סופר אותן.
-2. **שיוך פריטים לחנויות לא מעודכן.**
-   - Big Crossbow (i05) נמכר, אבל במסד עדיין רשום "בעגלה".
-   - Bat Von Blood (lb-bat) רשום בעגלה של LoveBubbles, ובפועל נמצא אצל LoveClover.
-   - מחירי LoveBubbles ב-items הם המחירים הישנים מ-2/11.
-   - פריטים שבחנויות של CutesellsWoman ו-ZenyEmpire, ובמוכר הפרטי, רשומים עדיין במחסנים (למשל Ignis Cap, EDA ו-Crimson Bow במחסן הגילדה).
-   - Costume Crown ו-Coral Reef ×376 עברו לחנות LoveBubbles ולא סומנו.
-3. **יתרות לא מעודכנות ב-settings** (סעיף 1). ל-LoveClover אין עדיין רשומת זני.
-4. **פרטי דמויות חסרים:**
-   - LoveBubbles רשומה במסד כ-Novice, ובפועל היא Merchant (Base 14 / Job 19).
-   - ל-CutesellsWoman לא רשומות רמות.
-5. (תוקן 3/11 11:04) חנות CutesellsWoman עודכנה במסד.
-6. **Abysmal Knight Card:** בהערות מ-2/11 נכתב שאחד נמכר ב-ZenyEmpire, אבל אין על כך רשומת עסקה, והחנות עדיין מציגה ×2. צריך לאמת.
-7. **פריטים שלא נמצאו:**
+**תוקן ב-3/11 11:30, באישור אושר.** לפני התיקון נשמר גיבוי. לא נמחקה אף רשומה, ולא נמחק אף שדה ישן.
+
+1. **פורמט עסקאות.** לכל 9 העסקאות נוספו השדות שהאתר קורא: `d, item, itemId, qty, side, unit, total, tax, cost, profit, ch, act, zc, party, external, ts`.
+   - בקניות: `cost` = המחיר ששולם, `profit` = 0.
+   - במכירות: `cost` ו-`profit` נשארו null, כי לא ידוע כמה עלה הפריט.
+   - השדות הישנים נשמרו.
+2. **שיוך לחנויות.** 40 פריטים קיבלו `loc=חנות`, את ה-`shop` שלהם ואת המחיר המפורסם:
+
+   | חנות | פריטים |
+   |---|---|
+   | LoveBubbles | 12 |
+   | CutesellsWoman | 12 |
+   | מוכר פרטי | 4 |
+   | ZenyEmpire | 12 |
+
+   - הפריטים עברו לדמות שמוכרת אותם. הדמות והמיקום הקודמים נשמרו בהערה של כל פריט.
+   - Costume Burning Cloak רשום בתיק של ZenyEmpire, אבל בצילום הוא בחנות של CutesellsWoman.
+3. **פריטים שנמכרו וסומנו נמכר (כמות 0):** Big Crossbow (i05), Wandering Duck Doll Egg (i26), Gan Ceann Card (n238).
+4. **רשומות חדשות:**
+   - Costume Crown (היה בספירה וחסר במסד).
+   - Window Shopper Catalogue: 47 יחידות בחנות ZenyEmpire ו-52 בתיק. הפיצול לא מאומת.
+   - 3 הקניות של הבוקר: Cherry Blossom, Footprints, Premium Box.
+5. **Bat Von Blood** הועבר ל-LoveClover (מיקום: תיק, לא מאומת).
+6. **settings:**
+   - CutesellsWoman: 91,924,117.
+   - LoveBubbles: 6,349,914 (נוספה).
+   - liquid = 990,443,580.
+7. **LoveBubbles:** עודכנה ל-Merchant, Base 14 / Job 19.
+
+**פתוח (לא ניתן לתקן בלי מידע מאושר):**
+1. **Abysmal Knight Card:** הערה ישנה אומרת שאחד נמכר ב-ZenyEmpire, אבל אין על כך עסקה, והחנות מציגה ×2. צריך צילום של החנות.
+2. **יתרות שלא נבדקו היום:**
+   - LoveClover: לא ידוע.
+   - Cuteanddeadly ו-buffsareus: מ-2/11.
+   - ZenyEmpire: מ-3/11 00:17.
+3. **רמות CutesellsWoman** לא רשומות.
+4. **פריטים שלא נמצאו:**
    - Peerless Ancient Morocc Jewelry, Variant Shoes ×2, קלף Resentment.
-   - 4 רשומות ישנות שסומנו "לא נמצא בספירה": Empathizer Card, Bloody Branch שני, High Adventurer Suit/Sandals.
+   - Empathizer Card, Bloody Branch שני, High Adventurer Suit/Sandals.
    - כ-5 פריטים במחסן הגילדה ו-24 פריטי Armor במחסן הראשי לא זוהו.
+   - כל אלה נשארו במסד ומסומנים, ולא נמחקו.
+5. **מחירי שוק:** אין במסד אף מחיר שוק (אוסף market ריק). לכן "שווי שוק משוער" באתר מציג 0.
+6. **רווח לא ידוע:** לכל 4 המכירות אין עלות קנייה, ולכן הרווח שלהן לא ידוע. האתר מציג אותן תחת "חסרה עלות".
 
 **משימות תפעוליות:**
 - **VIP של oshen11:** אי אפשר להפעיל את הקופסה החדשה כל עוד המנוי הנוכחי פעיל. הוא נגמר בערך ב-21:25 היום. תזכורת קבועה ל-21:20.
@@ -301,7 +343,8 @@
 
 - **אתר (חי):** https://claude.ai/artifact/TYcXBrk3GzaNTtcz2kKQBx (v21)
 - **הדוח הזה ונספחיו:** קישורי raw ב-GitHub. הם מופיעים בהודעה ל-אושר ובקובץ `handover/README` במאגר.
-- **ייצוא מלא של המסד:** `handover/db_export_2026-11-03.json`
+- **ייצוא מלא של המסד (אחרי התיקונים):** `handover/db_export_2026-11-03.json`
+- **גיבוי לפני התיקונים:** `/mnt/project-files/zeny-empire/backup-before-fixes-2026-11-03.json`
 - **מלאי לפי שורה:** `handover/inventory_db_2026-11-03.csv`
 - **קוד האתר:** `/mnt/project-files/zeny-empire/zeny-empire-v21.html`. יש גם עותק ב-backup-2026-11-02.
 - **תמונת מצב קודמת ל-ChatGPT:** github.com/benfederman1-svg/zeny-empire-data, קובץ summary.txt מ-2/11 (מיושן).
