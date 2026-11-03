@@ -1,0 +1,797 @@
+﻿id,char,loc,shop,cat,refine,name,card,qty,status,keep,price_in_db,cost,notes
+n023,Cuteanddeadly,מחסן Kafra,,Consumables,,Amulet,,3,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n017,Cuteanddeadly,מחסן Kafra,,Consumables,,Apple,,67,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n055,Cuteanddeadly,מחסן Kafra,,Consumables,,Apple Juice,,185,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n216,Cuteanddeadly,מחסן Kafra,,Consumables,,Arrow,,7144,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n077,Cuteanddeadly,מחסן Kafra,,Consumables,,Baked Mushroom,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n078,Cuteanddeadly,מחסן Kafra,,Consumables,,Baked Sweet Potato,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n003,Cuteanddeadly,מחסן Kafra,,Consumables,,Banana,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n020,Cuteanddeadly,מחסן Kafra,,Consumables,,Basil,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n013,Cuteanddeadly,מחסן Kafra,,Consumables,,Blue Herb,,95,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n027,Cuteanddeadly,מחסן Kafra,,Consumables,,Blue Potion,,4,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n009,Cuteanddeadly,מחסן Kafra,,Consumables,,Bullet Case,,15,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n019,Cuteanddeadly,מחסן Kafra,,Consumables,,Candy,,5,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n014,Cuteanddeadly,מחסן Kafra,,Consumables,,Candy Cane,,9,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n021,Cuteanddeadly,מחסן Kafra,,Consumables,,Carrot,,12,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n052,Cuteanddeadly,מחסן Kafra,,Consumables,,Chocolate,,6,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n072,Cuteanddeadly,מחסן Kafra,,Consumables,,Concentrated Blue Syrup Potion,,946,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n079,Cuteanddeadly,מחסן Kafra,,Consumables,,Concentrated Golden Syrup Potion,,6060,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n073,Cuteanddeadly,מחסן Kafra,,Consumables,,Concentrated Red Syrup Potion,,1970,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n217,Cuteanddeadly,מחסן Kafra,,Consumables,,Crystal Arrow,,4857,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n066,Cuteanddeadly,מחסן Kafra,,Consumables,,Crystal Arrow Quiver,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n209,Cuteanddeadly,מחסן Kafra,,Consumables,,Curse Arrow,,31,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n035,Cuteanddeadly,מחסן Kafra,,Consumables,,Dead Branch,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n016,Cuteanddeadly,מחסן Kafra,,Consumables,,Delicious Jelly,,28,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n047,Cuteanddeadly,מחסן Kafra,,Consumables,,Distilled Fighting Spirit,,3,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n063,Cuteanddeadly,מחסן Kafra,,Consumables,,Egrade Pocket,,4,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n222,Cuteanddeadly,מחסן Kafra,,Consumables,,Elven Arrow,,627,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n082,Cuteanddeadly,מחסן Kafra,,Consumables,,Fantastic Cooking Kit,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n203,Cuteanddeadly,מחסן Kafra,,Consumables,,Fire Arrow,,3797,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n218,Cuteanddeadly,מחסן Kafra,,Consumables,,Flash Arrow,,5,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n086,Cuteanddeadly,מחסן Kafra,,Consumables,,Fly Wing,,160,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n213,Cuteanddeadly,מחסן Kafra,,Consumables,,Freezing Arrow,,800,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n034,Cuteanddeadly,מחסן Kafra,,Consumables,,Fried Scorpion Tails,,10,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n038,Cuteanddeadly,מחסן Kafra,,Consumables,,Giant Fly Wing,,179,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n076,Cuteanddeadly,מחסן Kafra,,Consumables,,Grace Moon Cake,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n001,Cuteanddeadly,מחסן Kafra,,Consumables,,Green Herb,,72,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n018,Cuteanddeadly,מחסן Kafra,,Consumables,,Green Potion,,5,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n029,Cuteanddeadly,מחסן Kafra,,Consumables,,Green Salad,,10,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n044,Cuteanddeadly,מחסן Kafra,,Consumables,,Hell Contract,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n049,Cuteanddeadly,מחסן Kafra,,Consumables,,Herb of Incantation,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n064,Cuteanddeadly,מחסן Kafra,,Consumables,,Holy Arrow Quiver,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n061,Cuteanddeadly,מחסן Kafra,,Consumables,,Honey,,7,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n202,Cuteanddeadly,מחסן Kafra,,Consumables,,Hunting Arrow,,1836,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n083,Cuteanddeadly,מחסן Kafra,,Consumables,,Hwergelmir's Tonic,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n025,Cuteanddeadly,מחסן Kafra,,Consumables,,Ice Cream,,3,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n221,Cuteanddeadly,מחסן Kafra,,Consumables,,Immaterial Arrow,,300,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n219,Cuteanddeadly,מחסן Kafra,,Consumables,,Iron Arrow,,9435,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n010,Cuteanddeadly,מחסן Kafra,,Consumables,,Level 1 Frost Diver,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n011,Cuteanddeadly,מחסן Kafra,,Consumables,,Level 3 Cold Bolt,,3,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n012,Cuteanddeadly,מחסן Kafra,,Consumables,,Level 3 Heal,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n015,Cuteanddeadly,מחסן Kafra,,Consumables,,Level 5 Soul Strike,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n046,Cuteanddeadly,מחסן Kafra,,Consumables,,Magnifier,,18,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n030,Cuteanddeadly,מחסן Kafra,,Consumables,,Mastela Fruit Wine,,10,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n004,Cuteanddeadly,מחסן Kafra,,Consumables,,Milk,,7,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n000,Cuteanddeadly,מחסן Kafra,,Consumables,,Monster's Feed,,34,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n067,Cuteanddeadly,מחסן Kafra,,Consumables,,Mr. White~'s Condensed White Potion,,93,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n057,Cuteanddeadly,מחסן Kafra,,Consumables,,Mystic Rough Runestone,,13,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n036,Cuteanddeadly,מחסן Kafra,,Consumables,,Old Blue Box,,19,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n042,Cuteanddeadly,מחסן Kafra,,Consumables,,Old Card Album,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n039,Cuteanddeadly,מחסן Kafra,,Consumables,,Old Purple Box,,42,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n002,Cuteanddeadly,מחסן Kafra,,Consumables,,Orange,,3,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n214,Cuteanddeadly,מחסן Kafra,,Consumables,,Oridecon Arrow,,625,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n053,Cuteanddeadly,מחסן Kafra,,Consumables,,Panacea,,5,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n062,Cuteanddeadly,מחסן Kafra,,Consumables,,Pet Food,,455,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n054,Cuteanddeadly,מחסן Kafra,,Consumables,,Pet Incubator,,12,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n050,Cuteanddeadly,מחסן Kafra,,Consumables,,Piece of Cake,,4,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n210,Cuteanddeadly,מחסן Kafra,,Consumables,,Poison Arrow,,31,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n022,Cuteanddeadly,מחסן Kafra,,Consumables,,Professional Cooking Kit,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n037,Cuteanddeadly,מחסן Kafra,,Consumables,,Red Prickly Fruit,,65,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n008,Cuteanddeadly,מחסן Kafra,,Consumables,,Rice Cake,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n207,Cuteanddeadly,מחסן Kafra,,Consumables,,Rusty Arrow,,10,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n074,Cuteanddeadly,מחסן Kafra,,Consumables,,Santa's Bag,,20,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n206,Cuteanddeadly,מחסן Kafra,,Consumables,,Shadow Arrow,,63,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n065,Cuteanddeadly,מחסן Kafra,,Consumables,,Shadow Arrow Quiver,,3,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n220,Cuteanddeadly,מחסן Kafra,,Consumables,,Sharp Arrow,,200,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n040,Cuteanddeadly,מחסן Kafra,,Consumables,,Shining Stone,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n211,Cuteanddeadly,מחסן Kafra,,Consumables,,Silence Arrow,,251,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n212,Cuteanddeadly,מחסן Kafra,,Consumables,,Silver Arrow,,38,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n208,Cuteanddeadly,מחסן Kafra,,Consumables,,Sleep Arrow,,5,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n048,Cuteanddeadly,מחסן Kafra,,Consumables,,Snow Flip,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n031,Cuteanddeadly,מחסן Kafra,,Consumables,,Spicy Fried Bao,,10,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n032,Cuteanddeadly,מחסן Kafra,,Consumables,,Steamed Bat Wing in Pumpkin,,10,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n084,Cuteanddeadly,מחסן Kafra,,Consumables,,Steamed Desert Scorpions,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n204,Cuteanddeadly,מחסן Kafra,,Consumables,,Steel Arrow,,2205,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n215,Cuteanddeadly,מחסן Kafra,,Consumables,,Stone Arrow,,790,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n080,Cuteanddeadly,מחסן Kafra,,Consumables,,Stone Arrow Quiver,,15,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n059,Cuteanddeadly,מחסן Kafra,,Consumables,,Stone of Sage,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n006,Cuteanddeadly,מחסן Kafra,,Consumables,,Strawberry,,10,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n205,Cuteanddeadly,מחסן Kafra,,Consumables,,Stun Arrow,,455,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n081,Cuteanddeadly,מחסן Kafra,,Consumables,,Tropical Banana,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n041,Cuteanddeadly,מחסן Kafra,,Consumables,,Unripe Apple,,2,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n043,Cuteanddeadly,מחסן Kafra,,Consumables,,Vagabond's Skull,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n051,Cuteanddeadly,מחסן Kafra,,Consumables,,White Chocolate,,6,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n026,Cuteanddeadly,מחסן Kafra,,Consumables,,White Herb,,109,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n068,Cuteanddeadly,מחסן Kafra,,Consumables,,White Syrup,,15,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n024,Cuteanddeadly,מחסן Kafra,,Consumables,,Worn Out Scroll,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n070,Cuteanddeadly,מחסן Kafra,,Consumables,,Yam,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n005,Cuteanddeadly,מחסן Kafra,,Consumables,,Yellow Herb,,81,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n007,Cuteanddeadly,מחסן Kafra,,Consumables,,Yellow Potion,,53,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n045,Cuteanddeadly,מחסן Kafra,,Consumables,,Yggdrasil Berry,,33,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n565,Cuteanddeadly,מחסן Kafra,,Consumables,,Yggdrasil Berry,,10,להשתמש,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n028,Cuteanddeadly,מחסן Kafra,,Consumables,,Yggdrasil Leaf,,7,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n071,Cuteanddeadly,מחסן Kafra,,Consumables,,Yummy Meat,,199,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n033,Cuteanddeadly,מחסן Kafra,,Consumables,,[Event] Blue Potion,,65,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n058,Cuteanddeadly,מחסן Kafra,,Consumables,,[Event] Giant Fly Wing,,20,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n056,Cuteanddeadly,מחסן Kafra,,Consumables,,[Event] LV5 Aspersio Scroll,,3,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n075,Cuteanddeadly,מחסן Kafra,,Consumables,,[Event] LV5 Assumptio Scroll,,1,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n085,Cuteanddeadly,מחסן Kafra,,Consumables,,[Event] Miracle Elixir,,5,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n060,Cuteanddeadly,מחסן Kafra,,Consumables,,[Event] Small Defense Potion,,5,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n069,Cuteanddeadly,מחסן Kafra,,Consumables,,[Event] White Potion,,20,להשתמש,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n401,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Bradium,,8,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n404,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Carnium,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n339,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Coal,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n381,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Elunium,,51,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n249,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Emveretarcon,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n246,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Iron Ore,,8,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n375,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Oridecon,,96,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n377,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Phracon,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n350,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Rough Elunium,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n263,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Rough Oridecon,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n379,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Safe to 6 Armor Certificate,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n380,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Safe to 7 Armor Certificate,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n465,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Shadowdecon,,27,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n423,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Shadowdecon Ore,,188,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n591,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Shadowdecon Ore,,25,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n376,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Steel,,30,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n471,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Zelunium,,11,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n580,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Zelunium,,4,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n590,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Zelunium Ore,,54,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n431,Cuteanddeadly,מחסן Kafra,,חומרי שדרוג,,Zelunium Ore,,89,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n445,Cuteanddeadly,מחסן Kafra,,למסחר,,4th Job Change Guide Map,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n469,Cuteanddeadly,מחסן Kafra,,למסחר,,Abysmal Crab,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n582,Cuteanddeadly,מחסן Kafra,,למסחר,,Abysmal Crab,,6,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n610,Cuteanddeadly,מחסן Kafra,,למסחר,,Abysmal Fish Tail,,8,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n605,Cuteanddeadly,מחסן Kafra,,למסחר,,Abysmal Sea Shell,,2,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n595,Cuteanddeadly,מחסן Kafra,,למסחר,,Abysmal Starfish,,4,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n466,Cuteanddeadly,מחסן Kafra,,למסחר,,Abyssal Essence,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n596,Cuteanddeadly,מחסן Kafra,,למסחר,,Abyssal Essence,,3,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n252,Cuteanddeadly,מחסן Kafra,,למסחר,,Acorn,,15,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n387,Cuteanddeadly,מחסן Kafra,,למסחר,,Alice's Apron,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n264,Cuteanddeadly,מחסן Kafra,,למסחר,,Amethyst,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n597,Cuteanddeadly,מחסן Kafra,,למסחר,,Ancient Lips,,3,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n463,Cuteanddeadly,מחסן Kafra,,למסחר,,Ancient Tooth,,10,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n604,Cuteanddeadly,מחסן Kafra,,למסחר,,Animal Skin,,38,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n287,Cuteanddeadly,מחסן Kafra,,למסחר,,Animal Skin,,34,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n319,Cuteanddeadly,מחסן Kafra,,למסחר,,Antelope Horn,,32,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n322,Cuteanddeadly,מחסן Kafra,,למסחר,,Antelope Skin,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n325,Cuteanddeadly,מחסן Kafra,,למסחר,,Aquamarine,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n601,Cuteanddeadly,מחסן Kafra,,למסחר,,Aromatic Flower,,24,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n273,Cuteanddeadly,מחסן Kafra,,למסחר,,Barren Trunk,,17,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n296,Cuteanddeadly,מחסן Kafra,,למסחר,,Bear's Footskin,,15,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n258,Cuteanddeadly,מחסן Kafra,,למסחר,,Bee Stinger,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n275,Cuteanddeadly,מחסן Kafra,,למסחר,,Bird Feather,,24,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n288,Cuteanddeadly,מחסן Kafra,,למסחר,,Bird's Bill,,10,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n406,Cuteanddeadly,מחסן Kafra,,למסחר,,Black Dyestuffs,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n294,Cuteanddeadly,מחסן Kafra,,למסחר,,Black Hair,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n374,Cuteanddeadly,מחסן Kafra,,למסחר,,Black Powder,,27,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n606,Cuteanddeadly,מחסן Kafra,,למסחר,,Black Powder,,6,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n470,Cuteanddeadly,מחסן Kafra,,למסחר,,Blaze Stone,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n594,Cuteanddeadly,מחסן Kafra,,למסחר,,Blaze Stone,,58,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n475,Cuteanddeadly,מחסן Kafra,,למסחר,,Blue Crystal Shard,,186,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n373,Cuteanddeadly,מחסן Kafra,,למסחר,,Blue Vital Flower,,42,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n437,Cuteanddeadly,מחסן Kafra,,למסחר,,Bookclip in Memory,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n301,Cuteanddeadly,מחסן Kafra,,למסחר,,Brigan,,25,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n458,Cuteanddeadly,מחסן Kafra,,למסחר,,Broken Crown,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n392,Cuteanddeadly,מחסן Kafra,,למסחר,,Bun,,96,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n340,Cuteanddeadly,מחסן Kafra,,למסחר,,Burning Hair,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n337,Cuteanddeadly,מחסן Kafra,,למסחר,,Burning Heart,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n593,Cuteanddeadly,מחסן Kafra,,למסחר,,Burning Heart,,10,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n342,Cuteanddeadly,מחסן Kafra,,למסחר,,Burning Horseshoe,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n300,Cuteanddeadly,מחסן Kafra,,למסחר,,Butterfly Powder,,6,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n274,Cuteanddeadly,מחסן Kafra,,למסחר,,Cacao,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n254,Cuteanddeadly,מחסן Kafra,,למסחר,,Cactus Needle,,12,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n446,Cuteanddeadly,מחסן Kafra,,למסחר,,Calapy,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n323,Cuteanddeadly,מחסן Kafra,,למסחר,,Chef King Orleans Vol.1,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n405,Cuteanddeadly,מחסן Kafra,,למסחר,,China,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n459,Cuteanddeadly,מחסן Kafra,,למסחר,,Chonchon Doll,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n361,Cuteanddeadly,מחסן Kafra,,למסחר,,Chrysalis,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n283,Cuteanddeadly,מחסן Kafra,,למסחר,,Clam Shell,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n472,Cuteanddeadly,מחסן Kafra,,למסחר,,Clock Gear,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n382,Cuteanddeadly,מחסן Kafra,,למסחר,,Clock Hands,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n478,Cuteanddeadly,מחסן Kafra,,למסחר,,Clock Lead,,70,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n255,Cuteanddeadly,מחסן Kafra,,למסחר,,Clover,,43,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n395,Cuteanddeadly,מחסן Kafra,,למסחר,,Coagulated Spell,,8,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n351,Cuteanddeadly,מחסן Kafra,,למסחר,,Coconut Fruit,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n413,Cuteanddeadly,מחסן Kafra,,למסחר,,Cold Ice,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n393,Cuteanddeadly,מחסן Kafra,,למסחר,,Colorful Brooch,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n479,Cuteanddeadly,מחסן Kafra,,למסחר,,Coral Reef,,167,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i23,Cuteanddeadly,מחסן Kafra,,למסחר,,Costume Egir Helm,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n265,Cuteanddeadly,מחסן Kafra,,למסחר,,Crab Shell,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n314,Cuteanddeadly,מחסן Kafra,,למסחר,,Cracked Diamond,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n600,Cuteanddeadly,מחסן Kafra,,למסחר,,Crystal Blue,,10,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n477,Cuteanddeadly,מחסן Kafra,,למסחר,,Cute Broom,,175,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n306,Cuteanddeadly,מחסן Kafra,,למסחר,,Cyfar,,40,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n305,Cuteanddeadly,מחסן Kafra,,למסחר,,Daenggie,,17,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n444,Cuteanddeadly,מחסן Kafra,,למסחר,,Daily Login Card,,20,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n417,Cuteanddeadly,מחסן Kafra,,למסחר,,Dark Soul Fragment,,45,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n290,Cuteanddeadly,מחסן Kafra,,למסחר,,Decayed Nail,,31,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n331,Cuteanddeadly,מחסן Kafra,,למסחר,,Denture from Dragon Mask,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n429,Cuteanddeadly,מחסן Kafra,,למסחר,,Destroyed Armor,,23,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n310,Cuteanddeadly,מחסן Kafra,,למסחר,,Detrimindexta,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n295,Cuteanddeadly,מחסן Kafra,,למסחר,,Dokebi Horn,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n330,Cuteanddeadly,מחסן Kafra,,למסחר,,Dragon Horn,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n336,Cuteanddeadly,מחסן Kafra,,למסחר,,Dragon Scale,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n334,Cuteanddeadly,מחסן Kafra,,למסחר,,Dragon Skin,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n359,Cuteanddeadly,מחסן Kafra,,למסחר,,Dragon Tail,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n461,Cuteanddeadly,מחסן Kafra,,למסחר,,Dry Sand,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n453,Cuteanddeadly,מחסן Kafra,,למסחר,,E Class Coin,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n349,Cuteanddeadly,מחסן Kafra,,למסחר,,Earthworm Peeling,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n426,Cuteanddeadly,מחסן Kafra,,למסחר,,Ectoplasm,,30,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n343,Cuteanddeadly,מחסן Kafra,,למסחר,,Elder Branch,,15,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n269,Cuteanddeadly,מחסן Kafra,,למסחר,,Emerald,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n247,Cuteanddeadly,מחסן Kafra,,למסחר,,Empty Bottle,,78,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n578,Cuteanddeadly,מחסן Kafra,,למסחר,,Ether Dust,,31,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n430,Cuteanddeadly,מחסן Kafra,,למסחר,,Ether Dust,,105,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n366,Cuteanddeadly,מחסן Kafra,,למסחר,,Fabric,,19,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n403,Cuteanddeadly,מחסן Kafra,,למסחר,,Fancy Fairy Wing,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n353,Cuteanddeadly,מחסן Kafra,,למסחר,,Fang,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n284,Cuteanddeadly,מחסן Kafra,,למסחר,,Feather,,13,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n581,Cuteanddeadly,מחסן Kafra,,למסחר,,Fin,,16,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n338,Cuteanddeadly,מחסן Kafra,,למסחר,,Flame Heart,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n420,Cuteanddeadly,מחסן Kafra,,למסחר,,Flexible Tube,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n309,Cuteanddeadly,מחסן Kafra,,למסחר,,Flower,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n286,Cuteanddeadly,מחסן Kafra,,למסחר,,Fluff,,11,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n450,Cuteanddeadly,מחסן Kafra,,למסחר,,Fluorescent Liquid,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n316,Cuteanddeadly,מחסן Kafra,,למסחר,,Four-Leaf Clover,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n457,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n449,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Agony,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n447,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Despair,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n438,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Empathy,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n435,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Fear,,8,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n440,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Happiness,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n436,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Hatred,,57,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n448,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Misery,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n443,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Rage,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n451,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragment of Rest,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n439,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragments of Condolence,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n441,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragments of Regret,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n434,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragments of Resentment,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n442,Cuteanddeadly,מחסן Kafra,,למסחר,,Fragments of Sorrow,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n603,Cuteanddeadly,מחסן Kafra,,למסחר,,Fresh Pear,,47,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n257,Cuteanddeadly,מחסן Kafra,,למסחר,,Garlet,,38,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n456,Cuteanddeadly,מחסן Kafra,,למסחר,,Ghost Chill,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n399,Cuteanddeadly,מחסן Kafra,,למסחר,,Giant Butterfly Wing,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n391,Cuteanddeadly,מחסן Kafra,,למסחר,,Glacial Heart,,13,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n371,Cuteanddeadly,מחסן Kafra,,למסחר,,Gold Bullion,,11,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n271,Cuteanddeadly,מחסן Kafra,,למסחר,,Grasshopper's Leg,,28,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n402,Cuteanddeadly,מחסן Kafra,,למסחר,,Gray Shard,,11,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n599,Cuteanddeadly,מחסן Kafra,,למסחר,,Great Nature,,3,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n419,Cuteanddeadly,מחסן Kafra,,למסחר,,Great Nature,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n607,Cuteanddeadly,מחסן Kafra,,למסחר,,Green Live,,7,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n433,Cuteanddeadly,מחסן Kafra,,למסחר,,Grit,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n318,Cuteanddeadly,מחסן Kafra,,למסחר,,Harpy Feather,,149,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n317,Cuteanddeadly,מחסן Kafra,,למסחר,,Harpy Talon,,74,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n411,Cuteanddeadly,מחסן Kafra,,למסחר,,Heart Hunter's Seal,,10,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n588,Cuteanddeadly,מחסן Kafra,,למסחר,,Horn,,19,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n244,Cuteanddeadly,מחסן Kafra,,למסחר,,Horn,,28,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n412,Cuteanddeadly,מחסן Kafra,,למסחר,,Illusion Gemstone,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n418,Cuteanddeadly,מחסן Kafra,,למסחר,,Illusion Stone,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n611,Cuteanddeadly,מחסן Kafra,,למסחר,,Illusion Stone,,5,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n468,Cuteanddeadly,מחסן Kafra,,למסחר,,Insect Feelers,,20,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n586,Cuteanddeadly,מחסן Kafra,,למסחר,,Insect Feelers,,21,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n298,Cuteanddeadly,מחסן Kafra,,למסחר,,Insect Peeling,,16,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n352,Cuteanddeadly,מחסן Kafra,,למסחר,,Izidor,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n327,Cuteanddeadly,מחסן Kafra,,למסחר,,Jack o' Pumpkin,,24,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n285,Cuteanddeadly,מחסן Kafra,,למסחר,,Jellopy,,281,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n473,Cuteanddeadly,מחסן Kafra,,למסחר,,Joker's Wild,,164,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n421,Cuteanddeadly,מחסן Kafra,,למסחר,,Jubilee,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n311,Cuteanddeadly,מחסן Kafra,,למסחר,,Lamp,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n357,Cuteanddeadly,מחסן Kafra,,למסחר,,Large Jellopy,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n341,Cuteanddeadly,מחסן Kafra,,למסחר,,Lava,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n602,Cuteanddeadly,מחסן Kafra,,למסחר,,Lava,,35,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n368,Cuteanddeadly,מחסן Kafra,,למסחר,,Level 7 Cookbook,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n324,Cuteanddeadly,מחסן Kafra,,למסחר,,Light Granule,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n388,Cuteanddeadly,מחסן Kafra,,למסחר,,Little Evil Horn,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n415,Cuteanddeadly,מחסן Kafra,,למסחר,,Little Evil Wing,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n329,Cuteanddeadly,מחסן Kafra,,למסחר,,Little Ghost Doll,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n335,Cuteanddeadly,מחסן Kafra,,למסחר,,Live Coal,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n464,Cuteanddeadly,מחסן Kafra,,למסחר,,Luminous Crystal,,19,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n589,Cuteanddeadly,מחסן Kafra,,למסחר,,Luminous Crystal,,39,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n612,Cuteanddeadly,מחסן Kafra,,למסחר,,Luxurious Pet Food,,20,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n251,Cuteanddeadly,מחסן Kafra,,למסחר,,Manacles,,11,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n320,Cuteanddeadly,מחסן Kafra,,למסחר,,Maneater Blossom,,24,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n321,Cuteanddeadly,מחסן Kafra,,למסחר,,Maneater Root,,13,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n332,Cuteanddeadly,מחסן Kafra,,למסחר,,Mantis Scythe,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n584,Cuteanddeadly,מחסן Kafra,,למסחר,,Mermaid's Heart,,11,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n425,Cuteanddeadly,מחסן Kafra,,למסחר,,Metal Fragment,,97,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n467,Cuteanddeadly,מחסן Kafra,,למסחר,,Meteorite Dust,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n270,Cuteanddeadly,מחסן Kafra,,למסחר,,Monkey Tail,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n389,Cuteanddeadly,מחסן Kafra,,למסחר,,Muscovite,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n248,Cuteanddeadly,מחסן Kafra,,למסחר,,Mushroom Spore,,66,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n462,Cuteanddeadly,מחסן Kafra,,למסחר,,Mystic Frozen,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n592,Cuteanddeadly,מחסן Kafra,,למסחר,,Mystic Frozen,,1,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n312,Cuteanddeadly,מחסן Kafra,,למסחר,,Nine Tails,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n587,Cuteanddeadly,מחסן Kafra,,למסחר,,Nipper,,1,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n280,Cuteanddeadly,מחסן Kafra,,למסחר,,Nursing Bottle,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n408,Cuteanddeadly,מחסן Kafra,,למסחר,,Oil Bottle,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n416,Cuteanddeadly,מחסן Kafra,,למסחר,,Old Doll,,24,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n422,Cuteanddeadly,מחסן Kafra,,למסחר,,Old Manteau,,16,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n409,Cuteanddeadly,מחסן Kafra,,למסחר,,Old Turtle Shells,,53,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n397,Cuteanddeadly,מחסן Kafra,,למסחר,,Old White Cloth,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n362,Cuteanddeadly,מחסן Kafra,,למסחר,,Opal,,6,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n355,Cuteanddeadly,מחסן Kafra,,למסחר,,Orc's Fang,,8,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n259,Cuteanddeadly,מחסן Kafra,,למסחר,,Orcish Voucher,,68,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n326,Cuteanddeadly,מחסן Kafra,,למסחר,,Pearl,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n356,Cuteanddeadly,מחסן Kafra,,למסחר,,PecoPeco Feather,,3,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n358,Cuteanddeadly,מחסן Kafra,,למסחר,,Petite Tail,,6,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n427,Cuteanddeadly,מחסן Kafra,,למסחר,,Piece of Black Cloth,,23,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n315,Cuteanddeadly,מחסן Kafra,,למסחר,,Piece of Egg Shell,,6,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n364,Cuteanddeadly,מחסן Kafra,,למסחר,,Pinafore,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n378,Cuteanddeadly,מחסן Kafra,,למסחר,,Platinum Bullion,,19,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n303,Cuteanddeadly,מחסן Kafra,,למסחר,,Pointed Scale,,18,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n363,Cuteanddeadly,מחסן Kafra,,למסחר,,Poison Herb Rantana,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n428,Cuteanddeadly,מחסן Kafra,,למסחר,,Pumpkin Lantern,,11,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n250,Cuteanddeadly,מחסן Kafra,,למסחר,,Rainbow Shell,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n277,Cuteanddeadly,מחסן Kafra,,למסחר,,Red Blood,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n367,Cuteanddeadly,מחסן Kafra,,למסחר,,Red Gemstone,,73,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n365,Cuteanddeadly,מחסן Kafra,,למסחר,,Reins,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n609,Cuteanddeadly,מחסן Kafra,,למסחר,,Rotten Abysmal Fish,,2,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n414,Cuteanddeadly,מחסן Kafra,,למסחר,,Rotten Meat,,109,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n613,Cuteanddeadly,מחסן Kafra,,למסחר,,Rough Wind,,1,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n398,Cuteanddeadly,מחסן Kafra,,למסחר,,Round Shell,,237,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n407,Cuteanddeadly,מחסן Kafra,,למסחר,,Ruby,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n372,Cuteanddeadly,מחסן Kafra,,למסחר,,Rune of Darkness,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n424,Cuteanddeadly,מחסן Kafra,,למסחר,,Rusty Kitchen Knife,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n360,Cuteanddeadly,מחסן Kafra,,למסחר,,Santa Claws Token,,21,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n266,Cuteanddeadly,מחסן Kafra,,למסחר,,Sapphire,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n292,Cuteanddeadly,מחסן Kafra,,למסחר,,Scell,,6,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n344,Cuteanddeadly,מחסן Kafra,,למסחר,,Scorpion Claw,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n281,Cuteanddeadly,מחסן Kafra,,למסחר,,Scorpion Tail,,13,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n268,Cuteanddeadly,מחסן Kafra,,למסחר,,Sea-otter Fur,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n347,Cuteanddeadly,מחסן Kafra,,למסחר,,Sharp Paper,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n598,Cuteanddeadly,מחסן Kafra,,למסחר,,Sharp Scale,,3,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n299,Cuteanddeadly,מחסן Kafra,,למסחר,,Shell,,14,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n474,Cuteanddeadly,מחסן Kafra,,למסחר,,Shiny round shell,,84,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n313,Cuteanddeadly,מחסן Kafra,,למסחר,,Short Daenggie,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n480,Cuteanddeadly,מחסן Kafra,,למסחר,,Showy Coral Reef,,14,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n370,Cuteanddeadly,מחסן Kafra,,למסחר,,Silver Bullion,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n460,Cuteanddeadly,מחסן Kafra,,למסחר,,Singing Plant,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n291,Cuteanddeadly,מחסן Kafra,,למסחר,,Skeleton Bone,,95,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n369,Cuteanddeadly,מחסן Kafra,,למסחר,,Skull,,40,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n348,Cuteanddeadly,מחסן Kafra,,למסחר,,Slick Paper,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n256,Cuteanddeadly,מחסן Kafra,,למסחר,,Snail's Shell,,22,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n302,Cuteanddeadly,מחסן Kafra,,למסחר,,Snake Scale,,22,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n383,Cuteanddeadly,מחסן Kafra,,למסחר,,Solid Shell,,111,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n608,Cuteanddeadly,מחסן Kafra,,למסחר,,Solid Shell,,3,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n262,Cuteanddeadly,מחסן Kafra,,למסחר,,Solid Trunk,,13,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n278,Cuteanddeadly,מחסן Kafra,,למסחר,,Spawn,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n386,Cuteanddeadly,מחסן Kafra,,למסחר,,Sprout,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n585,Cuteanddeadly,מחסן Kafra,,למסחר,,Squid Ink,,9,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n308,Cuteanddeadly,מחסן Kafra,,למסחר,,Stem,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n297,Cuteanddeadly,מחסן Kafra,,למסחר,,Sticky Mucus,,43,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n452,Cuteanddeadly,מחסן Kafra,,למסחר,,Sticky Poison,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n279,Cuteanddeadly,מחסן Kafra,,למסחר,,Sticky Webfoot,,8,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n276,Cuteanddeadly,מחסן Kafra,,למסחר,,Stone,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n261,Cuteanddeadly,מחסן Kafra,,למסחר,,Stone Heart,,5,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n346,Cuteanddeadly,מחסן Kafra,,למסחר,,Tattered Clothes,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n394,Cuteanddeadly,מחסן Kafra,,למסחר,,Temporal Crystal,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n583,Cuteanddeadly,מחסן Kafra,,למסחר,,Tentacle,,6,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n293,Cuteanddeadly,מחסן Kafra,,למסחר,,Tentacle,,166,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n328,Cuteanddeadly,מחסן Kafra,,למסחר,,Tiger Panty,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n454,Cuteanddeadly,מחסן Kafra,,למסחר,,Tiger Skin,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n455,Cuteanddeadly,מחסן Kafra,,למסחר,,Tiger's Footskin,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n289,Cuteanddeadly,מחסן Kafra,,למסחר,,Tooth of Bat,,22,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n245,Cuteanddeadly,מחסן Kafra,,למסחר,,Trap,,217,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n307,Cuteanddeadly,מחסן Kafra,,למסחר,,Treasure Box,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n272,Cuteanddeadly,מחסן Kafra,,למסחר,,Tree Root,,20,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n333,Cuteanddeadly,מחסן Kafra,,למסחר,,Turtle Shell,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n400,Cuteanddeadly,מחסן Kafra,,למסחר,,Used Iron Plate,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n304,Cuteanddeadly,מחסן Kafra,,למסחר,,Venomous Canine,,7,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n396,Cuteanddeadly,מחסן Kafra,,למסחר,,Will of Red Darkness,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n410,Cuteanddeadly,מחסן Kafra,,למסחר,,Will of Warrior,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n579,Cuteanddeadly,מחסן Kafra,,למסחר,,Wind of Verdure,,1,להשאיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n267,Cuteanddeadly,מחסן Kafra,,למסחר,,Wind of Verdure,,17,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n345,Cuteanddeadly,מחסן Kafra,,למסחר,,Wing of Red Bat,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n476,Cuteanddeadly,מחסן Kafra,,למסחר,,Witch Starsand,,338,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n282,Cuteanddeadly,מחסן Kafra,,למסחר,,Wolf Claw,,4,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n390,Cuteanddeadly,מחסן Kafra,,למסחר,,Worn-out Page,,9,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n385,Cuteanddeadly,מחסן Kafra,,למסחר,,Wrapping Lace,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n384,Cuteanddeadly,מחסן Kafra,,למסחר,,Wrapping Paper,,1,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n253,Cuteanddeadly,מחסן Kafra,,למסחר,,Yellow Gemstone,,2,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n432,Cuteanddeadly,מחסן Kafra,,למסחר,,Yellow Powder,,26,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n260,Cuteanddeadly,מחסן Kafra,,למסחר,,Zargon,,333,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n354,Cuteanddeadly,מחסן Kafra,,למסחר,,Zenorc's Fang,,8,להשאיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n099,Cuteanddeadly,מחסן Kafra,,ציוד,,Accessory (unidentified),,11,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · possible overlap between pages 3-4; hover to identify
+n091,Cuteanddeadly,מחסן Kafra,,ציוד,,Adventurer's Suit,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i43,Cuteanddeadly,מחסן Kafra,,ציוד,+12 [B],Ancient Mechanic Greaves,Papila Cae Card,1,להשתמש,True,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n130,Cuteanddeadly,מחסן Kafra,,ציוד,,Angel's Reincarnation,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n118,Cuteanddeadly,מחסן Kafra,,ציוד,,Armor (unidentified),,5,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n172,Cuteanddeadly,מחסן Kafra,,ציוד,,Axe,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n135,Cuteanddeadly,מחסן Kafra,,ציוד,,Banana Hat,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n189,Cuteanddeadly,מחסן Kafra,,ציוד,,Battle Hook,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n161,Cuteanddeadly,מחסן Kafra,,ציוד,,Bellum Crossbow,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n188,Cuteanddeadly,מחסן Kafra,,ציוד,,Berdysz,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n184,Cuteanddeadly,מחסן Kafra,,ציוד,,Berserk,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n170,Cuteanddeadly,מחסן Kafra,,ציוד,,Bible,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n137,Cuteanddeadly,מחסן Kafra,,ציוד,,Bison Horn,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n157,Cuteanddeadly,מחסן Kafra,,ציוד,,Blue Crystal Staff,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n169,Cuteanddeadly,מחסן Kafra,,ציוד,,Blunt,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n120,Cuteanddeadly,מחסן Kafra,,ציוד,,Boots,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n164,Cuteanddeadly,מחסן Kafra,,ציוד,,Bow,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n101,Cuteanddeadly,מחסן Kafra,,ציוד,,Buckler,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n167,Cuteanddeadly,מחסן Kafra,,ציוד,,Club,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n090,Cuteanddeadly,מחסן Kafra,,ציוד,,Cotton Shirt,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n103,Cuteanddeadly,מחסן Kafra,,ציוד,,Criatura Academy Hat,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n201,Cuteanddeadly,מחסן Kafra,,ציוד,,Crimson Bible,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n198,Cuteanddeadly,מחסן Kafra,,ציוד,,Crimson Mace,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n195,Cuteanddeadly,מחסן Kafra,,ציוד,,Crimson Rod,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n156,Cuteanddeadly,מחסן Kafra,,ציוד,,Cursed Lyre,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n196,Cuteanddeadly,מחסן Kafra,,ציוד,,Desert Twilight,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n116,Cuteanddeadly,מחסן Kafra,,ציוד,,Diamond Ring,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n126,Cuteanddeadly,מחסן Kafra,,ציוד,,Doram Shoes,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n200,Cuteanddeadly,מחסן Kafra,,ציוד,,Dragonfly Sitting Foxtail Staff,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n166,Cuteanddeadly,מחסן Kafra,,ציוד,,Earth Bow,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n177,Cuteanddeadly,מחסן Kafra,,ציוד,,Electric Fist,,4,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n129,Cuteanddeadly,מחסן Kafra,,ציוד,,Elegant Doram Shoes,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n182,Cuteanddeadly,מחסן Kafra,,ציוד,,Elven Bow,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n178,Cuteanddeadly,מחסן Kafra,,ציוד,+5,Evil Bone Wand,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i11,Cuteanddeadly,מחסן Kafra,,ציוד,+7,Executioner Holy Water Shadow Weapon,,1,לבדוק מחיר,False,,,לוודא שם · ספירה 2/11: מחסן ראשי (משותף oshen11)
+n145,Cuteanddeadly,מחסן Kafra,,ציוד,+7,Exorcist Corrupt Shadow Weapon,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n566,Cuteanddeadly,מחסן Kafra,,ציוד,,Falconer Flute,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n180,Cuteanddeadly,מחסן Kafra,,ציוד,,Fine Foxtail Replica,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n143,Cuteanddeadly,מחסן Kafra,,ציוד,+7,Fishing Insect Shadow Weapon,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n570,Cuteanddeadly,מחסן Kafra,,ציוד,,Fortified Claymore,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n576,Cuteanddeadly,מחסן Kafra,,ציוד,,Fortified Dagger,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n577,Cuteanddeadly,מחסן Kafra,,ציוד,,Fortified Manual,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n575,Cuteanddeadly,מחסן Kafra,,ציוד,,Fortified Rod,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n571,Cuteanddeadly,מחסן Kafra,,ציוד,,Fortified Rod,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n574,Cuteanddeadly,מחסן Kafra,,ציוד,,Fortified Spear,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+i29,Cuteanddeadly,מחסן Kafra,,ציוד,,Fricca's Circlet,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n185,Cuteanddeadly,מחסן Kafra,,ציוד,,Gae Bolg,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n106,Cuteanddeadly,מחסן Kafra,,ציוד,,Garment (unidentified),,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n153,Cuteanddeadly,מחסן Kafra,,ציוד,,Golden Rod Launcher,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n199,Cuteanddeadly,מחסן Kafra,,ציוד,,Goldsmithing Dagger,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n165,Cuteanddeadly,מחסן Kafra,,ציוד,,Great Bow,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n088,Cuteanddeadly,מחסן Kafra,,ציוד,,Green Lace,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n131,Cuteanddeadly,מחסן Kafra,,ציוד,,Halo,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n105,Cuteanddeadly,מחסן Kafra,,ציוד,,Headgear (unidentified),,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · לא מזוהה בוודאות
+n159,Cuteanddeadly,מחסן Kafra,,ציוד,,Huuma Shuriken Clear,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i52,Cuteanddeadly,מחסן Kafra,,ציוד,,Icarus Gloves of Void,,1,להשתמש,True,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n197,Cuteanddeadly,מחסן Kafra,,ציוד,,Icicle Whip,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n190,Cuteanddeadly,מחסן Kafra,,ציוד,,Illusion Iron Driver,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i17,Cuteanddeadly,מחסן Kafra,,ציוד,+9,Immune Erymanthian Skin,Raydric Card,1,למכור,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+i51,Cuteanddeadly,מחסן Kafra,,ציוד,+13,Invincible Crest Hat,,1,להשאיר,True,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n152,Cuteanddeadly,מחסן Kafra,,ציוד,,Iron Nail,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n173,Cuteanddeadly,מחסן Kafra,,ציוד,,Javelin,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n171,Cuteanddeadly,מחסן Kafra,,ציוד,,Knife,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n181,Cuteanddeadly,מחסן Kafra,,ציוד,,Laphine Staff,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n134,Cuteanddeadly,מחסן Kafra,,ציוד,,Lava Leather Armor,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n127,Cuteanddeadly,מחסן Kafra,,ציוד,,Lava Leather Muffler,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n133,Cuteanddeadly,מחסן Kafra,,ציוד,,Lava Leather Suits,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n175,Cuteanddeadly,מחסן Kafra,,ציוד,,Mace,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n158,Cuteanddeadly,מחסן Kafra,,ציוד,,Magic Sword,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n119,Cuteanddeadly,מחסן Kafra,,ציוד,,Manteau,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n092,Cuteanddeadly,מחסן Kafra,,ציוד,,Mantle,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n122,Cuteanddeadly,מחסן Kafra,,ציוד,,Matyr's Leash,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n111,Cuteanddeadly,מחסן Kafra,,ציוד,,Mitra,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n113,Cuteanddeadly,מחסן Kafra,,ציוד,,Monkey Circlet,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i27,Cuteanddeadly,מחסן Kafra,,ציוד,,Mr. Scream,,4,למכור,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n121,Cuteanddeadly,מחסן Kafra,,ציוד,,Muffler,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n155,Cuteanddeadly,מחסן Kafra,,ציוד,,Mystic Bow,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n151,Cuteanddeadly,מחסן Kafra,,ציוד,,Narcissus Bow,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n187,Cuteanddeadly,מחסן Kafra,,ציוד,,Novice Battle Axe,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n098,Cuteanddeadly,מחסן Kafra,,ציוד,,Novice Criatura Academy Hat,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n176,Cuteanddeadly,מחסן Kafra,,ציוד,,Novice Mace,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n168,Cuteanddeadly,מחסן Kafra,,ציוד,,One-Handed Staff,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n163,Cuteanddeadly,מחסן Kafra,,ציוד,,Orcish Axe,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n100,Cuteanddeadly,מחסן Kafra,,ציוד,,Pacifier,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i18,Cuteanddeadly,מחסן Kafra,,ציוד,,Peerless Ancient Morocc Jewelry,,1,למכור,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n149,Cuteanddeadly,מחסן Kafra,,ציוד,,Pet Accessory,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n146,Cuteanddeadly,מחסן Kafra,,ציוד,,Peuz's Greaves,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n117,Cuteanddeadly,מחסן Kafra,,ציוד,,Peuz's Manteau,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n148,Cuteanddeadly,מחסן Kafra,,ציוד,,Peuz's Plate,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n147,Cuteanddeadly,מחסן Kafra,,ציוד,,Peuz's Seal,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n144,Cuteanddeadly,מחסן Kafra,,ציוד,,Puente Robe,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n568,Cuteanddeadly,מחסן Kafra,,ציוד,,Rabbit Pattern Shirt,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n154,Cuteanddeadly,מחסן Kafra,,ציוד,,Ray Knuckle,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n192,Cuteanddeadly,מחסן Kafra,,ציוד,,Relapse Axe,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n193,Cuteanddeadly,מחסן Kafra,,ציוד,,Relapse Cross,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n194,Cuteanddeadly,מחסן Kafra,,ציוד,,Relapse Dagger,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n191,Cuteanddeadly,מחסן Kafra,,ציוד,,Relapse Katar,,4,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n095,Cuteanddeadly,מחסן Kafra,,ציוד,,Ribbon,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n123,Cuteanddeadly,מחסן Kafra,,ציוד,,Romantic Leaf,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n104,Cuteanddeadly,מחסן Kafra,,ציוד,,Rosary,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11) · possible overlap between pages 3-4
+n150,Cuteanddeadly,מחסן Kafra,,ציוד,,Rough Core,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n124,Cuteanddeadly,מחסן Kafra,,ציוד,,Royal Guard Necklace,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n139,Cuteanddeadly,מחסן Kafra,,ציוד,,Sacred Mission,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n094,Cuteanddeadly,מחסן Kafra,,ציוד,,Sandals,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n141,Cuteanddeadly,מחסן Kafra,,ציוד,,Saphien's Armor of Ocean,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n142,Cuteanddeadly,מחסן Kafra,,ציוד,+7,Scissors Hunting Shadow Weapon,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n096,Cuteanddeadly,מחסן Kafra,,ציוד,,Shadow Armor,,5,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n107,Cuteanddeadly,מחסן Kafra,,ציוד,,Shadow Earring,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n110,Cuteanddeadly,מחסן Kafra,,ציוד,,Shadow Pendant,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n109,Cuteanddeadly,מחסן Kafra,,ציוד,,Shadow Shield,,4,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n125,Cuteanddeadly,מחסן Kafra,,ציוד,,Shadow Shoes,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n108,Cuteanddeadly,מחסן Kafra,,ציוד,,Shadow Weapon,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n102,Cuteanddeadly,מחסן Kafra,,ציוד,,Shoes,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n128,Cuteanddeadly,מחסן Kafra,,ציוד,,Silversmith Bracelet,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n097,Cuteanddeadly,מחסן Kafra,,ציוד,,Skull Ring,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i19,Cuteanddeadly,מחסן Kafra,,ציוד,,Sniper Goggle,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n136,Cuteanddeadly,מחסן Kafra,,ציוד,,Spiky Band,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n112,Cuteanddeadly,מחסן Kafra,,ציוד,,Spiritual Ring,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n087,Cuteanddeadly,מחסן Kafra,,ציוד,,Stellar,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n114,Cuteanddeadly,מחסן Kafra,,ציוד,,Stone Buckler,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n138,Cuteanddeadly,מחסן Kafra,,ציוד,,Survivor's Manteau,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n174,Cuteanddeadly,מחסן Kafra,,ציוד,,Sword,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n183,Cuteanddeadly,מחסן Kafra,,ציוד,,Tirfing,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n160,Cuteanddeadly,מחסן Kafra,,ציוד,,Trumpet Shell,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n162,Cuteanddeadly,מחסן Kafra,,ציוד,,Two-Handed Spear,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n093,Cuteanddeadly,מחסן Kafra,,ציוד,,Undershirt,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n089,Cuteanddeadly,מחסן Kafra,,ציוד,,Vesper Core 03,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n115,Cuteanddeadly,מחסן Kafra,,ציוד,,Wedding Dress,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n186,Cuteanddeadly,מחסן Kafra,,ציוד,,Whip,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n572,Cuteanddeadly,מחסן Kafra,,ציוד,,Wicked Cross,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n573,Cuteanddeadly,מחסן Kafra,,ציוד,,Witch's Broom,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן משני (משותף oshen11)
+n179,Cuteanddeadly,מחסן Kafra,,ציוד,,Wondrous Foxtail Staff,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i35,Cuteanddeadly,מחסן Kafra,,קלפים,,Anger of Thanatos Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n226,Cuteanddeadly,מחסן Kafra,,קלפים,,Creamy Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+i03,Cuteanddeadly,מחסן Kafra,,קלפים,,Dame of Sentinel Card,,1,למכור,False,,1900000,מיותר (נקנה ב-1.9M) · ספירה 2/11: מחסן ראשי (משותף oshen11)
+n243,Cuteanddeadly,מחסן Kafra,,קלפים,,Disguiser Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n231,Cuteanddeadly,מחסן Kafra,,קלפים,,Firm Blazzer Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n233,Cuteanddeadly,מחסן Kafra,,קלפים,,Firm Explosion Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n232,Cuteanddeadly,מחסן Kafra,,קלפים,,Firm Ground Deleter Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n230,Cuteanddeadly,מחסן Kafra,,קלפים,,Firm Kaho Card,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n224,Cuteanddeadly,מחסן Kafra,,קלפים,,Fruit Pom Spider Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n238,Cuteanddeadly,מחסן Kafra,,קלפים,,Gan Ceann Card,,0,נמכר,False,,,"ספירה 2/11: מחסן ראשי (משותף oshen11) · נמכר 2/11 16:34 ב-3,500,000 ל-KinsonLau (ZenyEmpire)."
+n225,Cuteanddeadly,מחסן Kafra,,קלפים,,Novice Poring Card,,4,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n229,Cuteanddeadly,מחסן Kafra,,קלפים,,Ominous Permeter Card,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n240,Cuteanddeadly,מחסן Kafra,,קלפים,,Picky Egg Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n242,Cuteanddeadly,מחסן Kafra,,קלפים,,Pierrotzoist Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n237,Cuteanddeadly,מחסן Kafra,,קלפים,,Polluted Wander Man Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n227,Cuteanddeadly,מחסן Kafra,,קלפים,,Resentful Soldier Card,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n234,Cuteanddeadly,מחסן Kafra,,קלפים,,Resentment of Thanatos Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n239,Cuteanddeadly,מחסן Kafra,,קלפים,,Restless Dead Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n223,Cuteanddeadly,מחסן Kafra,,קלפים,,Snowier Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n241,Cuteanddeadly,מחסן Kafra,,קלפים,,Void Mimic Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן ראשי (משותף oshen11)
+n617,Cuteanddeadly,מחסן גילדה,,Consumables,,Apple Juice,,1,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n621,Cuteanddeadly,מחסן גילדה,,Consumables,,Banana Juice,,8,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n615,Cuteanddeadly,מחסן גילדה,,Consumables,,Battle Manual X3,,10,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n618,Cuteanddeadly,מחסן גילדה,,Consumables,,Butterfly Wing,,4,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n616,Cuteanddeadly,מחסן גילדה,,Consumables,,Concentrated Blue Syrup Potion,,500,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n623,Cuteanddeadly,מחסן גילדה,,Consumables,,Korean Rice Cake,,1,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n614,Cuteanddeadly,מחסן גילדה,,Consumables,,Magnifier,,15,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n619,Cuteanddeadly,מחסן גילדה,,Consumables,,Old Card Album,,1,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n622,Cuteanddeadly,מחסן גילדה,,Consumables,,Rare Rough Runestone,,5,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n620,Cuteanddeadly,מחסן גילדה,,Consumables,,Red Herb,,30,להשתמש,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n624,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Elunium,,46,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n645,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Emperium,,1,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n646,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Iron,,1,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n648,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Iron Ore,,1,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n639,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Oridecon,,114,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n647,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Phracon,,2,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n625,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Shadowdecon,,24,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n632,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Shadowdecon Ore,,288,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n631,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Steel,,60,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n628,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Zelunium,,27,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n630,Cuteanddeadly,מחסן גילדה,,חומרי שדרוג,,Zelunium Ore,,169,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n626,Cuteanddeadly,מחסן גילדה,,למסחר,,Clock Gear,,22,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n635,Cuteanddeadly,מחסן גילדה,,למסחר,,Cute Broom,,335,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n637,Cuteanddeadly,מחסן גילדה,,למסחר,,Ether Dust,,69,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n649,Cuteanddeadly,מחסן גילדה,,למסחר,,Fluff,,1,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n638,Cuteanddeadly,מחסן גילדה,,למסחר,,Joker's Wild,,279,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n643,Cuteanddeadly,מחסן גילדה,,למסחר,,Luxurious Pet Food,,5,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n627,Cuteanddeadly,מחסן גילדה,,למסחר,,Red Gemstone,,90,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n634,Cuteanddeadly,מחסן גילדה,,למסחר,,Round Shell,,406,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n633,Cuteanddeadly,מחסן גילדה,,למסחר,,Shiny round shell,,172,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n644,Cuteanddeadly,מחסן גילדה,,למסחר,,Showy Coral Reef,,266,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n629,Cuteanddeadly,מחסן גילדה,,למסחר,,Solid Shell,,268,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n641,Cuteanddeadly,מחסן גילדה,,למסחר,,Tentacle,,372,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n636,Cuteanddeadly,מחסן גילדה,,למסחר,,Witch Starsand,,535,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n650,Cuteanddeadly,מחסן גילדה,,למסחר,,Wood,,1,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n640,Cuteanddeadly,מחסן גילדה,,למסחר,,Zargon,,466,להשאיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n690,Cuteanddeadly,מחסן גילדה,,ציוד,,Alchemy Glove,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n665,Cuteanddeadly,מחסן גילדה,,ציוד,,Brionac,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n664,Cuteanddeadly,מחסן גילדה,,ציוד,,Corrode Garden Knife,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n651,Cuteanddeadly,מחסן גילדה,,ציוד,,Death Guidance,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n663,Cuteanddeadly,מחסן גילדה,,ציוד,,Fireblend,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n681,Cuteanddeadly,מחסן גילדה,,ציוד,,Ghostly Aura,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n658,Cuteanddeadly,מחסן גילדה,,ציוד,,Hellfire,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+i07,Cuteanddeadly,מחסן גילדה,,ציוד,+13,Hero Nependess Shoes,,1,לבדוק מחיר,False,,,לוודא שם מלא · ספירה 2/11: מחסן גילדה Guild Of Love
+i06,Cuteanddeadly,מחסן גילדה,,ציוד,+12,Illusion Armor Type A,3 מודולים (השם נחתך),1,למכור,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n655,Cuteanddeadly,מחסן גילדה,,ציוד,,Illusion Immaterial Sword,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n668,Cuteanddeadly,מחסן גילדה,,ציוד,,Iron Nail,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n659,Cuteanddeadly,מחסן גילדה,,ציוד,,Knife,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n657,Cuteanddeadly,מחסן גילדה,,ציוד,,Ledger of Death,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n676,Cuteanddeadly,מחסן גילדה,,ציוד,,Moon Follower Eyepatch,,0,נמכר,False,,,"נמכר ב-ZenyEmpire 2/11 16:49 ב-8,500,000."
+n669,Cuteanddeadly,מחסן גילדה,,ציוד,,Precision Shatter,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n694,Cuteanddeadly,מחסן גילדה,,ציוד,,Rabbit Pattern Shirt,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n667,Cuteanddeadly,מחסן גילדה,,ציוד,,Ray Knuckle,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n661,Cuteanddeadly,מחסן גילדה,,ציוד,,Relapse Axe,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n660,Cuteanddeadly,מחסן גילדה,,ציוד,,Relapse Blade,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n666,Cuteanddeadly,מחסן גילדה,,ציוד,,Relapse Cross,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n673,Cuteanddeadly,מחסן גילדה,,ציוד,,Solid Spear,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n670,Cuteanddeadly,מחסן גילדה,,ציוד,,Solid Staff,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n672,Cuteanddeadly,מחסן גילדה,,ציוד,,Solid Wand,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n662,Cuteanddeadly,מחסן גילדה,,ציוד,,Staff of Destruction,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n677,Cuteanddeadly,מחסן גילדה,,ציוד,,Tai-Zi Egg,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n653,Cuteanddeadly,מחסן גילדה,,ציוד,,Two-handed Sword,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+i31,Cuteanddeadly,מחסן גילדה,,ציוד,,Valkyrian Shoes,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+i30,Cuteanddeadly,מחסן גילדה,,ציוד,,Variant Shoes,,2,למכור,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n683,Cuteanddeadly,מחסן גילדה,,ציוד,+7,Vibration Dragon Killer Shadow Weapon,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n679,Cuteanddeadly,מחסן גילדה,,ציוד,,White Wing Brooch,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n674,Cuteanddeadly,מחסן גילדה,,ציוד,,Wicked Axe,,2,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n656,Cuteanddeadly,מחסן גילדה,,ציוד,,Witch's Broom,,3,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+i34,Cuteanddeadly,מחסן גילדה,,ציוד נדיר,,Roost of Skelion,,1,למכור,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+i26,Cuteanddeadly,מחסן גילדה,,ציוד נדיר,,Wandering Duck Doll Egg,,0,נמכר,False,,,"השם נחתך · ספירה 2/11: מחסן גילדה Guild Of Love · נמכר 2/11 21:03 ב-1,200,000 (ZenyEmpire)."
+n696,Cuteanddeadly,מחסן גילדה,,קלפים,,Ambernite Card,,1,לבדוק מחיר,False,,,ספירה 2/11: מחסן גילדה Guild Of Love
+n140,Cuteanddeadly,מחסן גילדה,,שימוש,,Costume Goggles,,1,להשאיר,True,,,2/11 21:12: הועבר מהמחסן הראשי למחסן הגילדה (אושר). שמור לעליית רמות של דמות חדשה.
+n675,Cuteanddeadly,מחסן גילדה,,שימוש,,Costume Goggles,,1,להשאיר,True,,,ספירה 2/11: מחסן גילדה. שמור לעליית רמות של דמות חדשה.
+n686,Cuteanddeadly,מחסן גילדה,,שימוש,,Under a Cast Clip,Phen Card,1,להשאיר,True,,,"ערכת לבלינג לדמות חדשה (אושר 2/11 21:14). שוק: Phen Card 0.39–0.5M, Clip 0.3–1M, אין מכירות עם Phen."
+i22,Cuteanddeadly,על הדמות,,למסחר,,Costume Samba Carnival Feather,,1,להשתמש,True,,,"ספירה 2/11 · in use - not for sale · 2/11: הועבר מ'לבדוק מחיר' ל'להשתמש' (לבוש על Windhawk, מוגן)"
+i49,Cuteanddeadly,על הדמות,,ציוד,+10,Bow Master Shadow Armor,,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i50,Cuteanddeadly,על הדמות,,ציוד,+10,Bow Master Shadow Shoes,,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+n510,Cuteanddeadly,על הדמות,,ציוד,,Costume Heart Angel,,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+n511,Cuteanddeadly,על הדמות,,ציוד,,Costume Lovely Feeling,,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+n509,Cuteanddeadly,על הדמות,,ציוד,,Costume Tiara,,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+i38,Cuteanddeadly,על הדמות,,ציוד,,Dim Glacier Follower [1],Limacina Card,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i37,Cuteanddeadly,על הדמות,,ציוד,+14 [A],Focused Cat Paw Physical [1],Purple Ferus Card,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i44,Cuteanddeadly,על הדמות,,ציוד,,Focused Hatred Ring,Void Mimic Card,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i45,Cuteanddeadly,על הדמות,,ציוד,,Focused Love Ring,Void Mimic Card,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i46,Cuteanddeadly,על הדמות,,ציוד,+10,Gale Shadow Earring,,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i47,Cuteanddeadly,על הדמות,,ציוד,+10,Gale Shadow Pendant,,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+n508,Cuteanddeadly,על הדמות,,ציוד,+13,Kshatra Vairya of Keen [1],,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+n512,Cuteanddeadly,על הדמות,,ציוד,+9,Master Shadow Shield,,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+i48,Cuteanddeadly,על הדמות,,ציוד,+9,Master Shadow Weapon,,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i39,Cuteanddeadly,על הדמות,,ציוד,,Moon God Lapel,,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i40,Cuteanddeadly,על הדמות,,ציוד,+14,Moonflower Bow [1],Polluted Wander Man Card,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i42,Cuteanddeadly,על הדמות,,ציוד,+14 [B],Royal Prontera Cape,Empathizer Card,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+i41,Cuteanddeadly,על הדמות,,ציוד,+13,Screaming Ghost Party,Dame of Sentinel Card,1,להשתמש,True,,,ספירה 2/11 · in use - not for sale
+n513,Cuteanddeadly,על הדמות,,ציוד,,Silver Arrow (equipped ammo),,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+n516,Cuteanddeadly,תיק,,Consumables,,Battle Manual X3,,6,להשתמש,False,,,ספירה 2/11
+i14,Cuteanddeadly,תיק,,Consumables,,Bloody Branch,,2,להשאיר,True,,,עדיף להשתמש מאשר למכור · לא נמצא בספירת המלאי 2/11
+n533,Cuteanddeadly,תיק,,Consumables,,Butterfly Wing,,2,להשתמש,False,,,ספירה 2/11
+n517,Cuteanddeadly,תיק,,Consumables,,Concentrated Golden Syrup Potion,,137,להשתמש,False,,,ספירה 2/11
+n531,Cuteanddeadly,תיק,,Consumables,,Consignment Merchant Voucher,,2,להשתמש,False,,,ספירה 2/11
+n530,Cuteanddeadly,תיק,,Consumables,,Elven Arrow Quiver,,34,להשתמש,False,,,ספירה 2/11
+n525,Cuteanddeadly,תיק,,Consumables,,Fly Wing,,8,להשתמש,False,,,ספירה 2/11
+n522,Cuteanddeadly,תיק,,Consumables,,HE Bubble Gum,,4,להשתמש,False,,,ספירה 2/11
+n518,Cuteanddeadly,תיק,,Consumables,,Level 10 Blessing Scroll,,1,להשתמש,False,,,ספירה 2/11
+n524,Cuteanddeadly,תיק,,Consumables,,Personal Shopper Envelope,,1,להשתמש,False,,,ספירה 2/11
+n529,Cuteanddeadly,תיק,,Consumables,,Personal Shopper Voucher,,1,להשתמש,False,,,ספירה 2/11
+n526,Cuteanddeadly,תיק,,Consumables,,Pet Food,,37,להשתמש,False,,,ספירה 2/11
+n521,Cuteanddeadly,תיק,,Consumables,,Pet Incubator,,1,להשתמש,False,,,ספירה 2/11
+n527,Cuteanddeadly,תיק,,Consumables,,SP Increase Potion (Large),,1,להשתמש,False,,,ספירה 2/11
+n520,Cuteanddeadly,תיק,,Consumables,,Silver Arrow Quiver,,5,להשתמש,False,,,ספירה 2/11
+n519,Cuteanddeadly,תיק,,Consumables,,Yggdrasil Berry,,3,להשתמש,False,,,ספירה 2/11
+n528,Cuteanddeadly,תיק,,Consumables,,Yggdrasil Leaf,,1,להשתמש,False,,,ספירה 2/11
+n532,Cuteanddeadly,תיק,,Consumables,,[Event] Red Booster,,15,להשתמש,False,,,ספירה 2/11
+n523,Cuteanddeadly,תיק,,Consumables,,[Not for Sale] Battle Manual and Bubble Gum,,17,להשתמש,False,,,ספירה 2/11
+n514,Cuteanddeadly,תיק,,למסחר,,Costume 20th Anniversary Fairy Wing,,1,לבדוק מחיר,False,,,ספירה 2/11
+n515,Cuteanddeadly,תיק,,למסחר,,Costume 20th Anniversary Poring,,1,לבדוק מחיר,False,,,ספירה 2/11
+n545,Cuteanddeadly,תיק,,למסחר,,Criatura Hair Coupon,,1,להשאיר,False,,,ספירה 2/11
+n542,Cuteanddeadly,תיק,,למסחר,,Daily Login Card,,15,להשאיר,False,,,ספירה 2/11
+n541,Cuteanddeadly,תיק,,למסחר,,Eden Merit Badge,,50,להשאיר,False,,,ספירה 2/11
+n539,Cuteanddeadly,תיק,,למסחר,,Hawk Pipe,,1,להשאיר,False,,,ספירה 2/11
+n534,Cuteanddeadly,תיק,,למסחר,,Honor Token,,30,להשאיר,False,,,ספירה 2/11
+n543,Cuteanddeadly,תיק,,למסחר,,Schwartz's Honor Token,,40,להשאיר,False,,,ספירה 2/11
+n544,Cuteanddeadly,תיק,,למסחר,,Shell Fragment,,1,להשאיר,False,,,ספירה 2/11
+n540,Cuteanddeadly,תיק,,למסחר,,Silver Arrow,,85,להשאיר,False,,,ספירה 2/11
+n535,Cuteanddeadly,תיק,,למסחר,,VIP Token of Siegfried,,6,להשאיר,False,,,ספירה 2/11
+n538,Cuteanddeadly,תיק,,למסחר,,[Event] 23rd Anniversary Invitation,,1,להשאיר,False,,,ספירה 2/11
+n537,Cuteanddeadly,תיק,,למסחר,,[Event] Garden of Time Invitation,,1,להשאיר,False,,,ספירה 2/11
+n536,Cuteanddeadly,תיק,,למסחר,,[S3] Battle Pass Invitation,,1,להשאיר,False,,,ספירה 2/11
+i04,Cuteanddeadly,תיק,,קלפים,,Empathizer Card,,1,לבדוק מחיר,False,,,לבדוק אם באמת יש אחד נוסף · לא נמצא בספירת המלאי 2/11
+n558,CutesellsWoman,חנות,cutesells,למסחר,,Costume Burning Cloak,,1,למכור,False,27900000,,ספירה 2/11 · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: ZenyEmpire/תיק)
+i24,CutesellsWoman,חנות,cutesells,למסחר,,Costume Jumbo Rabbit,,1,למכור,False,229900000,,אושר 2/11: נמצא על CutesellsWoman · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: CutesellsWoman/על הדמות)
+n132,CutesellsWoman,חנות,cutesells,ציוד,,Beloved Mastering Egg,,1,למכור,False,2500000,,ספירה 2/11: מחסן ראשי (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+n569,CutesellsWoman,חנות,cutesells,ציוד,,Demon's Familiar [1],,1,למכור,False,9500000,,ספירה 2/11: מחסן משני (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+i01,CutesellsWoman,חנות,cutesells,ציוד,+15,Double Malicious Crimson Bow [2],2× Hunter Fly Card,1,למכור,False,49000000,,עדיפות 1. מתחרה יחיד +15 בלי קלפים · ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+k-kshatra-13,CutesellsWoman,חנות,cutesells,ציוד,+13,Kshatra Vairya [1],Agi+15 / Atk+47,1,למכור,False,13299999,14999999,"Agi+15 / Atk+47. נקנה 2/11 ב-14,999,999 להיפוך. מחיר מבוקש 29.9M, מינימום טרייד 25M (הערכה). מתחרים 2/11 16:28: Dex+7/Atk+50 ב-19,999,999 (מתחרה ישיר), Int+5/Atk+6% 15M, Luk+10/Matk+36 19M, Vit+9/Matk+15%/WIS+6 19,999,999 (מאגי) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: CutesellsWoman/on_character)"
+n567,CutesellsWoman,חנות,cutesells,ציוד,,Magical Booster,,1,למכור,False,18900000,,ספירה 2/11: מחסן משני (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+i16,CutesellsWoman,חנות,cutesells,ציוד,+9,Peerless Autumn Headband,Marduk Card,1,למכור,False,9900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n685,CutesellsWoman,חנות,cutesells,ציוד,,True Hunting Ring,,1,למכור,False,2900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n235,CutesellsWoman,חנות,cutesells,קלפים,,Book of Death Card,,1,למכור,False,4900000,,ספירה 2/11: מחסן ראשי (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+n236,CutesellsWoman,חנות,cutesells,קלפים,,Brutal Murderer Card,,1,למכור,False,2900000,,ספירה 2/11: מחסן ראשי (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+n228,CutesellsWoman,חנות,cutesells,קלפים,,Kick Step Card,,1,למכור,False,5900000,,ספירה 2/11: מחסן ראשי (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+i02,CutesellsWoman,חנות,cutesells-private,ציוד,+12,Ignis Cap Type K of Archer,,1,למכור,False,79900000,,עדיפות 1 · ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+i00,CutesellsWoman,חנות,cutesells-private,ציוד,+13,Orb of Deprave Evil Dragon Armor [1],Polluted Raydric Card,1,למכור,False,59000000,,עדיפות 1. לבדוק אם Polluted Raydric Card שווה למכור בנפרד · ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+i09,CutesellsWoman,חנות,cutesells-private,ציוד,+9,Penetration Shadow Earring,,1,למכור,False,45000000,,ספירה 2/11: מחסן ראשי (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+i10,CutesellsWoman,חנות,cutesells-private,ציוד,+9,Penetration Shadow Pendant,,1,למכור,False,89900000,,ספירה 2/11: מחסן ראשי (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+i32,CutesellsWoman,על הדמות,,ציוד,,High Adventurer Suit,,1,לבדוק מחיר,False,,,לא נמצא בספירת המלאי 2/11
+i33,CutesellsWoman,על הדמות,,ציוד,,High Adventurer's Sandals,,1,לבדוק מחיר,False,,,לא נמצא בספירת המלאי 2/11
+n502,CutesellsWoman,תיק,,Consumables,,Battle Manual X3,,8,להשתמש,False,,,ספירה 2/11
+n501,CutesellsWoman,תיק,,Consumables,,Consignment Merchant Voucher,,1,להשתמש,False,,,ספירה 2/11
+n496,CutesellsWoman,תיק,,Consumables,,Eden Group Mark,,1,להשתמש,False,,,ספירה 2/11
+n505,CutesellsWoman,תיק,,Consumables,,Fly Wing,,20,להשתמש,False,,,ספירה 2/11
+n498,CutesellsWoman,תיק,,Consumables,,Grape,,6,להשתמש,False,,,ספירה 2/11
+n493,CutesellsWoman,תיק,,Consumables,,Novice Blue Potion,,90,להשתמש,False,,,ספירה 2/11
+n492,CutesellsWoman,תיק,,Consumables,,Novice Butterfly Wing,,6,להשתמש,False,,,ספירה 2/11
+n500,CutesellsWoman,תיק,,Consumables,,Novice Fly Wing,,380,להשתמש,False,,,ספירה 2/11
+n495,CutesellsWoman,תיק,,Consumables,,Novice Magnifier,,35,להשתמש,False,,,ספירה 2/11
+n506,CutesellsWoman,תיק,,Consumables,,Personal Shopper Envelope,,2,להשתמש,False,,,ספירה 2/11
+n504,CutesellsWoman,תיק,,Consumables,,Yellow Potion,,89,להשתמש,False,,,ספירה 2/11
+cs-vip,CutesellsWoman,תיק,,Consumables,,[10 Days] Premium Subscription Box,,1,להשתמש,True,,33999998,"נקנה 3/11 לשימוש אישי. מיקום לפי הקונה (CutesellsWoman), לא מאומת."
+n494,CutesellsWoman,תיק,,Consumables,,[Event] Concentration Potion,,5,להשתמש,False,,,ספירה 2/11
+n497,CutesellsWoman,תיק,,Consumables,,[Event] Crate of 20 Orange Potions,,8,להשתמש,False,,,ספירה 2/11
+n499,CutesellsWoman,תיק,,Consumables,,[Event] Greed Scroll,,20,להשתמש,False,,,ספירה 2/11
+n491,CutesellsWoman,תיק,,Consumables,,[Event] Novice Potion,,31,להשתמש,False,,,ספירה 2/11
+n503,CutesellsWoman,תיק,,Consumables,,[Event] Yellow Butterfly Wing,,5,להשתמש,False,,,ספירה 2/11
+cs-footprints,CutesellsWoman,תיק,,Costume,,Cherry Blossom Footprints,,1,להשתמש,True,,3000000,"נקנה 3/11 לשימוש אישי. מיקום לפי הקונה (CutesellsWoman), לא מאומת."
+cs-cherry,CutesellsWoman,תיק,,Costume,,Costume Fluttering Cherry Blossom,,1,להשתמש,True,,14444444,"נקנה 3/11 לשימוש אישי. מיקום לפי הקונה (CutesellsWoman), לא מאומת."
+n486,CutesellsWoman,תיק,,חומרי שדרוג,,Iron,,20,להשאיר,False,,,ספירה 2/11
+n507,CutesellsWoman,תיק,,למסחר,,Costume Novice Rabbit Hood,,1,לבדוק מחיר,False,,,ספירה 2/11
+n482,CutesellsWoman,תיק,,למסחר,,Daily Login Card,,10,להשאיר,False,,,ספירה 2/11
+n490,CutesellsWoman,תיק,,למסחר,,Deviruchi Card,,1,להשאיר,False,,,ספירה 2/11
+n481,CutesellsWoman,תיק,,למסחר,,Empty Bottle,,1,להשאיר,False,,,ספירה 2/11
+n489,CutesellsWoman,תיק,,למסחר,,Geneticist Stone II (Garment),,1,להשאיר,False,,,ספירה 2/11
+n484,CutesellsWoman,תיק,,למסחר,,Job Change Map,,1,להשאיר,False,,,ספירה 2/11
+n488,CutesellsWoman,תיק,,למסחר,,Mushroom Spore,,52,להשאיר,False,,,ספירה 2/11
+n485,CutesellsWoman,תיק,,למסחר,,Sticky Mucus,,46,להשאיר,False,,,ספירה 2/11
+n487,CutesellsWoman,תיק,,למסחר,,Tentacle,,5,להשאיר,False,,,ספירה 2/11
+n483,CutesellsWoman,תיק,,למסחר,,VIP Token of Siegfried,,10,להשאיר,False,,,ספירה 2/11
+ze-wsc-shop,ZenyEmpire,חנות,zenyempire,Consumables,,Window Shopper Catalogue,,47,למכור,False,59999,,נפרד מ-n556 בתיקון 3/11 11:30 לפי רשימת החנות.
+i21,ZenyEmpire,חנות,zenyempire,למסחר,,Costume Angel Wings,,1,למכור,False,249900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+i20,ZenyEmpire,חנות,zenyempire,למסחר,,Costume Fluffy Lovely Fox,,1,למכור,False,9900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n682,ZenyEmpire,חנות,zenyempire,ציוד,+10,Arrow Shadow Armor,,1,למכור,False,8900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n691,ZenyEmpire,חנות,zenyempire,ציוד,+9,Arrow Shadow Shield,,1,למכור,False,7700000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n693,ZenyEmpire,חנות,zenyempire,ציוד,+9,Arrow Shadow Shoes,,1,למכור,False,7500000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+i28,ZenyEmpire,חנות,zenyempire,ציוד,,Dreaming Red Sheep,,1,למכור,False,189900000,,ספירה 2/11 · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: ZenyEmpire/תיק)
+n680,ZenyEmpire,חנות,zenyempire,ציוד,,Orc Hero Egg,,1,למכור,False,89900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n671,ZenyEmpire,חנות,zenyempire,ציוד,,Solid Rod,,2,למכור,False,4900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n678,ZenyEmpire,חנות,zenyempire,ציוד,+11,White Wing Manteau,,1,למכור,False,4900000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+i36,ZenyEmpire,חנות,zenyempire,קלפים,,Abysmal Knight Card,,1,למכור,False,3300000,,ספירה 2/11: מחסן ראשי (משותף oshen11) · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן Kafra)
+n695,ZenyEmpire,חנות,zenyempire,קלפים,,Abysmal Knight Card,,1,למכור,False,3300000,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n564,ZenyEmpire,על הדמות,,ציוד,,Cotton Shirt,,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+n562,ZenyEmpire,על הדמות,,ציוד,,Hat,,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+n563,ZenyEmpire,על הדמות,,ציוד,,Novice Battle Axe [3],,1,להשתמש,True,,,"ספירה 2/11 · בשימוש, לא למכירה"
+n548,ZenyEmpire,תיק,,Consumables,,Butterfly Wing,,5,להשתמש,False,,,ספירה 2/11
+n547,ZenyEmpire,תיק,,Consumables,,Carrot,,3,להשתמש,False,,,ספירה 2/11
+n554,ZenyEmpire,תיק,,Consumables,,Consignment Merchant Envelope,,1,להשתמש,False,,,ספירה 2/11
+n549,ZenyEmpire,תיק,,Consumables,,Fly Wing,,90,להשתמש,False,,,ספירה 2/11
+n551,ZenyEmpire,תיק,,Consumables,,Help Me Shorty,,1,להשתמש,False,,,ספירה 2/11
+n546,ZenyEmpire,תיק,,Consumables,,Novice Magnifier,,1,להשתמש,False,,,ספירה 2/11
+n555,ZenyEmpire,תיק,,Consumables,,Personal Shopper Envelope,,1,להשתמש,False,,,ספירה 2/11
+n552,ZenyEmpire,תיק,,Consumables,,Strawberry,,8,להשתמש,False,,,ספירה 2/11
+n556,ZenyEmpire,תיק,,Consumables,,Window Shopper Catalogue,,52,להשתמש,False,,,"ספירה 2/11 · תיקון 3/11: 47 מתוך 99 בחנות ZenyEmpire (רשומה ze-wsc-shop), 52 בתיק – לא מאומת"
+n553,ZenyEmpire,תיק,,Consumables,,Yellow Potion,,149,להשתמש,False,,,ספירה 2/11
+n550,ZenyEmpire,תיק,,Consumables,,Yggdrasil Leaf,,4,להשתמש,False,,,ספירה 2/11
+n560,ZenyEmpire,תיק,,למסחר,,[Event] 23rd Anniversary Invitation,,1,להשאיר,False,,,ספירה 2/11
+n561,ZenyEmpire,תיק,,למסחר,,[Event] Garden of Time Invitation,,1,להשאיר,False,,,ספירה 2/11
+n559,ZenyEmpire,תיק,,למסחר,,[S3] Battle Pass Invitation,,1,להשאיר,False,,,ספירה 2/11
+n557,ZenyEmpire,תיק,,ציוד,,unknown bag icon,,1,לבדוק מחיר,False,,,ספירה 2/11 · לא מזוהה בוודאות
+b37,buffsareus,מחסן Kafra,,Consumables,,Apple,,5,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b25,buffsareus,מחסן Kafra,,Consumables,,Battle Manual X3,,1,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b38,buffsareus,מחסן Kafra,,Consumables,,Fruit Basket,,3,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b34,buffsareus,מחסן Kafra,,Consumables,,Grape,,1,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b30,buffsareus,מחסן Kafra,,Consumables,,Level 10 Blessing Scroll,,13,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b29,buffsareus,מחסן Kafra,,Consumables,,Level 10 Increase Agility Scroll,,12,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b33,buffsareus,מחסן Kafra,,Consumables,,Lutie Lady's Pancake,,10,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b28,buffsareus,מחסן Kafra,,Consumables,,Magnifier,,5,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b31,buffsareus,מחסן Kafra,,Consumables,,Mastela Fruit Wine,,10,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b39,buffsareus,מחסן Kafra,,Consumables,,Mora Mandarin,,2,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b35,buffsareus,מחסן Kafra,,Consumables,,Old Scroll,,1,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b26,buffsareus,מחסן Kafra,,Consumables,,Personal Shopper Envelope,,1,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b36,buffsareus,מחסן Kafra,,Consumables,,Pet Incubator,,3,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b32,buffsareus,מחסן Kafra,,Consumables,,Red Herb,,2,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b27,buffsareus,מחסן Kafra,,Consumables,,Snow Flip,,2,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b40,buffsareus,מחסן Kafra,,Consumables,,Spicy Fried Bao,,10,להשתמש,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b24,buffsareus,מחסן Kafra,,חומרי שדרוג,,Steel,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b11,buffsareus,מחסן Kafra,,למסחר,,Bouquet,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b22,buffsareus,מחסן Kafra,,למסחר,,Broken Engine,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b21,buffsareus,מחסן Kafra,,למסחר,,Bug Leg,,4,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b08,buffsareus,מחסן Kafra,,למסחר,,Detrimindexta,,2,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b05,buffsareus,מחסן Kafra,,למסחר,,Empty Bottle,,6,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b03,buffsareus,מחסן Kafra,,למסחר,,Fluorescent Liquid,,7,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b14,buffsareus,מחסן Kafra,,למסחר,,Karvodailnirol,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b13,buffsareus,מחסן Kafra,,למסחר,,Mane,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b06,buffsareus,מחסן Kafra,,למסחר,,Round Shell,,4,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b23,buffsareus,מחסן Kafra,,למסחר,,Sentimental Fragment,,10,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b15,buffsareus,מחסן Kafra,,למסחר,,Solid Shell,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b10,buffsareus,מחסן Kafra,,למסחר,,Soul of Archer,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b09,buffsareus,מחסן Kafra,,למסחר,,Soul of Mage,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b07,buffsareus,מחסן Kafra,,למסחר,,Soul of Thief,,3,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b04,buffsareus,מחסן Kafra,,למסחר,,Sticky Mucus,,7,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b20,buffsareus,מחסן Kafra,,למסחר,,Used Iron Plate,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b12,buffsareus,מחסן Kafra,,למסחר,,Wedding Bouquet,,1,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b19,buffsareus,מחסן Kafra,,למסחר,,Witch Starsand,,7,להשאיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b18,buffsareus,מחסן Kafra,,ציוד,,Rake Horn Helm,,4,לבדוק מחיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b17,buffsareus,מחסן Kafra,,קלפים,,Poring Card,,3,לבדוק מחיר,False,,,"ספירה 2/11 · מ-buffsareus, הועבר למחסן הראשי"
+b01,buffsareus,על הדמות,,ציוד,+12,Adoramus Holy Stick [1],,1,להשתמש,True,,,ספירה 2/11 · לבוש על buffsareus
+b00,buffsareus,על הדמות,,ציוד,+9,Miraculous Shrine Maiden Hat,Arc Angeling Card,1,להשתמש,True,,,ספירה 2/11 · לבוש על buffsareus
+b02,buffsareus,תיק,,Consumables,,Blue Gemstone,,179,להשאיר,False,,,ספירה 2/11 · נשאר על buffsareus
+b16,buffsareus,תיק,,Consumables,,Gym Pass,,1,להשתמש,False,,,ספירה 2/11 · נשאר על buffsareus
+cc-crown,LoveBubbles,חנות,lovebubbles,Costume,,Costume Crown,,1,למכור,False,5499000,,"נוסף 3/11 11:30: היה בספירה (מחסן גילדה, מ-CutesellsWoman 2/11) אבל חסר במסד. בחנות LoveBubbles מ-3/11 10:47."
+n642,LoveBubbles,חנות,lovebubbles,למסחר,,Coral Reef,,376,למכור,False,9999,,ספירה 2/11: מחסן גילדה Guild Of Love · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: Cuteanddeadly/מחסן גילדה)
+n692,LoveBubbles,חנות,lovebubbles,למסחר,,Costume Ribbon Hat,,1,למכור,False,249000,,בחנות LoveBubbles מ-2/11 21:25. נמכר פעם אחת 250K. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)
+n687,LoveBubbles,חנות,lovebubbles,ציוד,,Aqua Benedict Valkyrie Drop,Headless Mule Card (Aqua Benedict),1,למכור,False,94900000,,"בחנות LoveBubbles מ-2/11 21:25. מחיר לפי iromarket 2/11 (מכירה אחרונה/מתחרה), מחזור מהיר. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)"
+n688,LoveBubbles,חנות,lovebubbles,ציוד,,Happy Balloon,,1,למכור,False,8900000,,"בחנות LoveBubbles מ-2/11 21:25. גרסה רגילה (לא Costume), נמכר 10M ב-31/10. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)"
+i15,LoveBubbles,חנות,lovebubbles,ציוד,+9,Holy Antonio's Coat,Angeling Card (Holy),1,למכור,False,19900000,,בחנות LoveBubbles מ-2/11 21:25. מחיר הערכה (אין מכירות עם Angeling). · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)
+n652,LoveBubbles,חנות,lovebubbles,ציוד,+12,Hunter Bow,,1,למכור,False,4900000,,בחנות LoveBubbles מ-2/11 21:25. מחיר הערכה (אין נתונים). · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)
+n654,LoveBubbles,חנות,lovebubbles,ציוד,+12,Queenbird Heavy Blade Virtual Bow-OS,"Powerful Archer Skeleton + Polluted Wander Man (Queenbird, Heavy Blade)",1,למכור,False,139900000,,"בחנות LoveBubbles מ-2/11 21:25. מחיר לפי iromarket 2/11 (מכירה אחרונה/מתחרה), מחזור מהיר. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)"
+n689,LoveBubbles,חנות,lovebubbles,ציוד,,Valkyrie Drop of Mad Witch,Scaraba Card (Mad Witch),1,למכור,False,89900000,,"בחנות LoveBubbles מ-2/11 21:25. מחיר לפי iromarket 2/11 (מכירה אחרונה/מתחרה), מחזור מהיר. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)"
+n684,LoveBubbles,חנות,lovebubbles,ציוד,,White Bird Rose,,1,למכור,False,7900000,,בחנות LoveBubbles מ-2/11 21:25. אין מכירות; מתחרה 8.9M. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)
+i08,LoveBubbles,חנות,lovebubbles,ציוד,+13,White Wing Suit of Agility,Ancient Mimic Card (Agility Switching),1,למכור,False,7900000,,בחנות LoveBubbles מ-2/11 21:25. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)
+i25,LoveBubbles,חנות,lovebubbles,ציוד נדיר,,Angeling Egg,,1,למכור,False,49900000,,"בחנות LoveBubbles מ-2/11 21:25. לא Loyal. מחיר הערכה (מתחרה Loyal 125M, אין מכירות), מחזור מהיר. · תיקון 3/11 11:30: שויך לחנות לפי צילום (לפני: LoveBubbles/עגלה LoveBubbles)"
+i05,LoveBubbles,עגלה LoveBubbles,,ציוד,+12,Double Kingbird Big Crossbow,2x Archer Skeleton Card (Double Kingbird),0,נמכר,False,7900000,,"בחנות LoveBubbles מ-2/11 21:25. · נמכר 3/11 10:19 ב-5,900,000 ל-OnlineZenyMaster (LoveBubbles)."
+lb-bat,LoveClover,תיק,,ציוד,,Bat Von Blood,,1,להשאיר,True,16990000,17990000,3/11: אושר – לשמור לאימון דמויות חדשות. עדיין בחנות LoveBubbles; להוציא בפתיחה-מחדש הבאה ולשים במחסן הגילדה (ערכת אימון). · 3/11: הועבר בטרייד ל-LoveClover (ציוד לבלינג). מיקום מדויק לא מאומת.
