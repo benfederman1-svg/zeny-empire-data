@@ -30,3 +30,8 @@ Conservative: ~0 / small loss (resell at normal price)
 RISK: every dated history point is at the CHEAP price; no dated Loyal sale; Loyal prices are asks only.
 
 CLAUDE DATA VERDICT: Orc Hero NO-GO, Phreeoni NO-GO, Loyal-upgrade TEST FIRST (1 Aliot egg, <=5M, list Loyal ~45M; expand only after a real sale within 7-10 days). Decision: Owner + ChatGPT.
+
+UPDATE 08:45 (official iRO site + iRO Wiki):
+- Easter Egg Hunt 2026 (official event page 6/4/2026, end date not stated): NPC Baron Pan Doo trades Orc Hero Egg = 300 Easter Egg + 10 Coin; Corrupted Wanderer / Rigid Nightmare Terror = 60 Easter Egg + 2 Coin. Explains Orc Hero supply. Unknown if active.
+- Phreeoni Egg: from an event machine for 30 Essence of Powerful Soul (iRO Wiki). Cost 7.5M vs sell 26M -> ~+17M/egg after tax. Unknown if machine is active -> TEST FIRST after in-game check.
+- "Destroyer": maybe Ground Deleter 9035 / Earth Deleter 9098 (1 listing 214.7M). Need exact name.

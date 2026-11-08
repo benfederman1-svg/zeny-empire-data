@@ -138,3 +138,23 @@
 - ההחלטה – של אושר ו-ChatGPT.
 
 *מוכן על ידי Claude מנתוני שוק וקוד פתוח. אלה נתונים, לא הוראות מסחר.*
+
+
+---
+
+## 7. עדכון 08:45 – מקורות השגה חדשים (✅ האתר הרשמי של iRO + iRO Wiki)
+- **אירוע Easter Egg Hunt 2026** (renewal.playragnarok.com/news/eventdetail.aspx?id=2021, עמוד מ-6/4/2026): ה-NPC Baron Pan Doo מחליף ביצים תמורת מטבעות האירוע:
+  - **Orc Hero Egg:** 300 [Event] 2026 Easter Egg + 10 Easter Collectible Coin.
+  - **Corrupted Wanderer, Rigid Nightmare Terror**, Blue Moon Loli Ruri, Fire Golem: כל אחת 60 Easter Egg + 2 Coin.
+  - כנראה מכאן ההיצע הגדול של Orc Hero בשוק. ❓ אין בעמוד תאריך סיום – לא ידוע אם האירוע עדיין פעיל.
+  - **המשמעות:** חישוב ההפסד בסעיף 3 נכון רק למסלול האבולוציה. מי שמשיג Orc Hero מהאירוע משלם רק בזמן.
+- **Phreeoni Egg** (iRO Wiki): לא מאלפים ולא אבולוציה. מגיעה **ממכונת אירועים** תמורת **30 Essence of Powerful Soul (25375)**.
+  - עלות: 30 × 250K = **7.5M** (346 יח' ב-250K היום). מכירה ב-26M → נטו 24.7M → **רווח ~17M לביצה**.
+  - ❓ לא ידוע אם המכונה פעילה היום, ואיפה היא. 🔎 לבדוק במשחק לפני כל קנייה.
+- **"Destroyer":** ייתכן שהכוונה ל-Ground Deleter (9035) או Earth Deleter (9098). ל-Earth Deleter יש מודעה אחת ב-214.7M ו-2 יחידות ירדו מהמלאי. 🔎 צריך את השם המדויק מהחנות.
+- **מתכוני אבולוציה נוספים** (⚠ dpRO / iRO Wiki, החומרים לא תומחרו):
+  - Aliot ← Teddy Bear Loyal: 10 Opal, 100 Honey, 500 Rusty Screw, 1 Teddy Bear Card.
+  - Chaotic Baphomet Jr. ← Baphomet Jr. Loyal: 100 Yellow Herb, 300 Evil Horn, 300 Brigan, 1 Chaotic Baphomet Junior Card.
+  - Corrupted Wanderer ← Wanderer Loyal: 50 Hand of God, 100 Fabric, 1 Wanderer Card, 500 Skull.
+  - Rigid Nightmare Terror ← Nightmare Terror Loyal: 100 Blue Herb, 100 Shell, 1 Nightmare Terror Card, 500 Burning Horseshoe, 2 Mithril.
+- **המלצה מעודכנת:** Orc Hero לייצור באבולוציה – NO-GO (ללא שינוי). **Phreeoni – TEST FIRST** אם מכונת האירוע קיימת. Loyal upgrade (Aliot) – TEST FIRST (ללא שינוי).
