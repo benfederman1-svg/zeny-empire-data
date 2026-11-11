@@ -1,0 +1,15 @@
+ZE-010 Hidden Production Opportunities | iRO Chaos | 2026-11-08 | research only, no trades
+Data: iRO Market read-only scans 06:18 & 06:37-07:10 UTC (all pet eggs; 51 items; all 222 tracked buy orders on 90 items / 109 buying stores). Wiki: iRO Wiki Refinement/Shadow/Malangdo. 
+Labels: ASK=active listing, BUY=buy order, INF=inferred from stock drops (not verified). VERIFIED sales: none.
+
+TOP 5 (ZE-DEAL SCORE weights)
+1 Mystical Card Album buy-store spread: BUY best 66,200 (10 orders, 12,869 units) vs ASK 134,998 (1,442 units at 134,999). INF 1,389 units avg 138,488. Profit ~68.8K/unit (~104%). Capital 33M/500. Risk: buy-order fill speed unknown, need Buying Store char. Vending-compatible.
+2 Costume Jade Raptor's Wing 480508 + Archangel's Glory 480507: single BUY 50M each (buyer Kate) vs ASK 19,999,999 / 22,222,222. Profit ~52.8M total after 5% (tax on buy-store sale unconfirmed). PRICE REVIEW REQUIRED: verify in game before anything.
+3 Aliot Egg -> Loyal (auto-feed): buy 5M, Loyal ASK from 80M, INF avg 43M (55 units) but all dated points 4.9-6M. Base +35.7M, conservative ~0. Vending-compatible.
+4 Old Card Album spread: BUY 70,000 (10,156 units) vs ASK 81,999 (443). INF 593 units avg 84,870. ~12K/unit (17%). Very liquid, low risk.
+5 3 Oridecon + 50K -> Bradium (Dietrich prt_in 63/69, iRO Wiki): cost 94,664 vs ASK 149,999 (100 units), INF 105 units ~150K. +55K/unit, demand ~100/10 days -> ~5.5M/cycle.
+
+NO-GO: Orc Hero evolution (-51 to -84M), Elunium->Carnium (-70K), Rough Ori->Ori (-30K), Rough Elu->Elu (+8K but only 47 rough units), Bloody Branch/BSB (no spread), Holgren hammer (gamble).
+NO DATA: Shadow Enhancement Box, Malangdo enchant, refine certificates (end-product prices not scanned).
+WATCH: Phreeoni egg from event machine (30 Essence=7.5M vs sell 26-29M) if machine active; Corrupted Wanderer Loyal (28M capital); Chaotic Bapho Jr Loyal.
+Suggested tests (owner decides): (a) in-game check of Kate's 50M buy orders; (b) MCA buy order 50 units ~3.3M for 48h; (c) 1 Aliot egg <=5M.

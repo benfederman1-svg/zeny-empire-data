@@ -1,0 +1,37 @@
+ZE-010 | Pet eggs research | iRO Chaos | 2026-11-08 08:18 IL | source: iRO Market full scan of egg IDs 9001-9250 (partial on 9121/9117), DP/rAthena for recipes
+NOTE: history = stock drops, not verified sales. 0 buy orders for ANY egg on the market.
+
+TOP EGGS BY STOCK-DROP UNITS (units | site avg | cheapest no-tag | cheapest Loyal)
+Aliot 9118: 55 | 43.0M | 5.0M | 80M
+Chaotic Baphomet Jr 9130: 51 | 32.0M | 3.97M | 249M
+Corrupted Wanderer 9117: 41 | 103.4M | 28M (Neutral 25M) | 150M
+Child Admin Beta 9123: 38 | 25.9M | 9.88M | 550M
+Rigid Nightmare Terror 9116: 37 | 46.2M | 28.8M | 50M
+Marionette 9043: 35 | 100.2M | 10M | 99M (no auto-feed per rA)
+High Orc 9087: 17 | 141.4M | - | 100M
+Orc Hero 9121: 2 | 47.8M | 50M | 72M  (9+ sellers; Neutral history 40-45.5M)
+Phreeoni 9111: 1 | 35M | 26M | -    (history 18.9-35M, ~9 units/3 weeks)
+"Destroyer" egg: does not exist on iRO Market (only Destroyer Boots)
+
+ORC HERO PRODUCTION (High Orc Loyal -> Orc Hero, DP recipe)
+High Orc Egg Loyal 100M + 10 Orc Warrior Card 11.1M + 10 Orc Baby Card 8.89M + 30 Essence of Powerful Soul 7.5M + 10 Heroic Emblem (not on market)
+= 127.49M+  | sell 45.5-79.9M -> loss 51.6M to 84.3M after 5% tax -> NO-GO
+High Orc from Orc Warrior needs Orc Trophy/Orc Helm/Orc Warlord Token x50/Mithril -> not on market -> not feasible
+Our listing: ZenyEmpire Orc Hero Egg [Loyal] 79.9M (2nd of 6 Loyal; cheapest Loyal 72M)
+
+PHREEONI: no known recipe/source (DP: no sources) -> NO-GO
+
+LOYAL-UPGRADE (buy cheap egg, auto-feed ~15-21h, sell Loyal) profit after tax & ~0.1M food
+Aliot: buy 5.0M | base (site avg) +35.7M | optimistic (cheapest Loyal ask) +70.9M
+Chaotic Bapho Jr: buy 3.97M | +26.4M | +232.5M
+Corrupted Wanderer: buy 28.0M | +70.1M | +114.4M
+Rigid Nightmare Terror: buy 28.8M | +15.1M | +18.6M
+Conservative: ~0 / small loss (resell at normal price)
+RISK: every dated history point is at the CHEAP price; no dated Loyal sale; Loyal prices are asks only.
+
+CLAUDE DATA VERDICT: Orc Hero NO-GO, Phreeoni NO-GO, Loyal-upgrade TEST FIRST (1 Aliot egg, <=5M, list Loyal ~45M; expand only after a real sale within 7-10 days). Decision: Owner + ChatGPT.
+
+UPDATE 08:45 (official iRO site + iRO Wiki):
+- Easter Egg Hunt 2026 (official event page 6/4/2026, end date not stated): NPC Baron Pan Doo trades Orc Hero Egg = 300 Easter Egg + 10 Coin; Corrupted Wanderer / Rigid Nightmare Terror = 60 Easter Egg + 2 Coin. Explains Orc Hero supply. Unknown if active.
+- Phreeoni Egg: from an event machine for 30 Essence of Powerful Soul (iRO Wiki). Cost 7.5M vs sell 26M -> ~+17M/egg after tax. Unknown if machine is active -> TEST FIRST after in-game check.
+- "Destroyer": maybe Ground Deleter 9035 / Earth Deleter 9098 (1 listing 214.7M). Need exact name.
